@@ -9,11 +9,11 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
-source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
+exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
+source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 2%
+source-wordcount: '715'
+ht-degree: 0%
 
 ---
 
@@ -28,11 +28,11 @@ In meiner Zeit mit ACS bin ich auf Fehler gestoßen, die zeitaufwendig und frust
 
 ## Fehler bei Datentyp-Abweichung
 
-**Fehlercode:**
+**Fehler-Code:**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Ursache:**
-Diese Fehlertypen werden in einem Workflow angezeigt, wenn Sie versuchen, die Abstimmung mit Feldern unterschiedlicher Datentypen durchzuführen. Wenn Sie beispielsweise eine Datei mit einer Datei mit einem Zeichenfolgenfeld hochladen und versuchen, das Zeichenfolgenfeld mit einem Profilfeld mit dem Datentyp int abzustimmen.
+Diese Fehlertypen werden in einem Workflow angezeigt, wenn Sie versuchen, die Abstimmung mit Feldern unterschiedlicher Datentypen durchzuführen. Wenn Sie beispielsweise eine Datei mit einer Datei laden, die ein Zeichenfolgenfeld enthält, und versuchen, das Zeichenfolgenfeld mit einem Profilfeld mit dem Datentyp int abzustimmen.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
@@ -44,7 +44,7 @@ Diese Fehlertypen werden in einem Workflow angezeigt, wenn Sie versuchen, die Ab
 
 ## Fehler bei der Versandpersonalisierung
 
-**Fehlercode:**
+**Fehler-Code:**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **Ursache:**
@@ -59,15 +59,15 @@ Siehe Screenshot der Abstimmungsaktivität wie unten dargestellt.
 
 ![Workflow mit Abstimmdetails](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Weitere Informationen [Abstimmung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+Weitere Informationen [Abstimmung](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Allgemeiner Fehler bei Felddatensätzen
 
-**Fehlercode:**
+**Fehler-Code:**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Ursache:**
-Dieses Problem tritt bei der Verwendung von **Ausschlussaktivität** in ACS-Workflows bei der Ausführung eines auf der ID basierenden Ausschlusses, wenn der Primäre Satz und der ausgeschlossene Satz nicht dieselben Feldnamen haben.
+Dieses Problem tritt bei der Verwendung von **Ausschlussaktivität** in ACS-Workflows bei der Ausführung eines Ausschlusses, der auf der ID basiert, wenn der Primäre Satz und der ausgeschlossene Satz nicht dieselben Feldnamen haben.
 
 
 ![Allgemeiner Fehler bei Felddatensätzen](/help/assets/kt-13256/dataset-error.png)
@@ -86,7 +86,7 @@ Es gibt zwei Möglichkeiten, diesen Fehler zu beheben:
 
 ## Fehler bei ausgelassenem Feldnamen
 
-**Fehlercode:**
+**Fehler-Code:**
 `XTK-170036 Unable to parse expression 'i__name'`
 
 **Ursache:**
@@ -109,7 +109,7 @@ Sie können diesen Fehler auf drei Arten beheben:
 
 ## Temporärer Fehler bei übersprungener Tabelle 
 
-**Fehlercode:**
+**Fehler-Code:**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **Ursache:**
