@@ -1,19 +1,19 @@
 ---
-user-guide-title: Adobe Campaign Standard – Tutorials
+user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Videos und Tutorials zu Adobe Campaign Standard.
 breadcrumb-title: Campaign Standard-Tutorials
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '517'
 ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign Standard – Tutorials {#tutorials}
+# Adobe Campaign Standard – Tutorials {#tutorials}
 
-+ [Adobe Campaign Standard – Tutorials](/help/overview.md)
++ [Adobe Campaign Standard – Tutorials](/help/overview.md)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Erste Schritte mit der Benutzeroberfläche](/help/getting-started/getting-started-with-the-ui.md)
@@ -100,7 +100,7 @@ ht-degree: 100%
       + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
       + [Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
-      + [Trigger-Ereignis in Campaign Standard erstellen](/help/integrations/create-a-trigger-event.md)
+      + [Erstellen eines Trigger-Ereignisses in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Konfigurieren von Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Konfigurieren von Microsoft](/help/integrations/configure-dynamics-365.md)
 + Verwalten {#administrating}
