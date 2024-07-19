@@ -12,20 +12,19 @@ team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 40%
+source-wordcount: '96'
+ht-degree: 26%
 
 ---
 
-# Erstellen [!UICONTROL Ermüdungsregeln]
+# Erstellen von [!UICONTROL Ermüdungsregeln]
 
-[!UICONTROL Mit Ermüdungsregeln können Marketer globale, kanalübergreifende Geschäftsregeln festlegen, mit denen Profile, die bereits zu oft angesprochen wurden, automatisch von Kampagnen ausgeschlossen werden.
-]
-Erstellen von [!UICONTROL Ermüdungsregeln]müssen Sie eine maximale Anzahl von Nachrichten pro Profil definieren und einen Zeitraum auswählen, für den die Regel gelten soll. Bei der Versandvorbereitung werden Profile vom Versand ausgeschlossen, wenn sie bereits eine bestimmte Anzahl an Nachrichten erhalten haben.
+[!UICONTROL Ermüdungsregeln] ermöglichen es Marketern, globale, kanalübergreifende Geschäftsregeln festzulegen, mit denen Profile, die zu oft angesprochen wurden, automatisch aus Kampagnen ausgeschlossen werden.
+Um [!UICONTROL Ermüdungsregeln] zu erstellen, müssen Sie eine maximale Anzahl von Nachrichten pro Profil definieren und einen Zeitraum auswählen, für den die Regel gelten soll. Bei der Versandvorbereitung werden Profile vom Versand ausgeschlossen, wenn sie bereits eine bestimmte Anzahl an Nachrichten erhalten haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
 
-*Erstellen einer [!UICONTROL Ermüdungsregel] (04:49 min)*
+*Erstellen einer [!UICONTROL Ermüdungsregel] (04:49 Min.)*
 
 ## Zusätzliche Ressourcen
 

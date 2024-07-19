@@ -12,16 +12,16 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 4%
+source-wordcount: '145'
+ht-degree: 8%
 
 ---
 
-# Konfigurieren [!UICONTROL Produktlisten] in Transaktions-E-Mails
+# Konfigurieren von [!UICONTROL Produktlisten] in Transaktions-E-Mails
 
 Sie können eine Retargeting-E-Mail mit einer Liste von Produkten konfigurieren, die beim Entwerfen der E-Mail unbekannt sind. Diese Produkte können zur Laufzeit aus der Payload hinzugefügt werden. Sie können beispielsweise automatisch eine E-Mail versenden, in der alle Produkte aufgelistet werden, die sich vor dem Abbruch im Warenkorb des Benutzers befanden, mit einem Bild, einem Preis und einem Link zu den einzelnen Produkten.
 
-In den folgenden Videos werden die Schritte erläutert, die zum Konfigurieren von [!UICONTROL Produktlisten] in [!UICONTROL Transaktions-E-Mail].
+In den folgenden Videos werden die Schritte erläutert, die zum Konfigurieren von [!UICONTROL Produktlisten] in [!UICONTROL Transaktions-E-Mails] erforderlich sind.
 
 >[!NOTE]
 >

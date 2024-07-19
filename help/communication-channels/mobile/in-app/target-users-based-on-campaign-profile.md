@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# Nutzer der Zielgruppe auf der Basis ihrer [!DNL Campaign] profile
+# Nutzer der Zielgruppe auf der Basis ihres [!DNL Campaign]-Profils auswählen
 
 Erfahren Sie, wie Sie bekannte Mobile-App-Benutzer mit Nachrichten ansprechen können, die mit CRM-Profilattributen personalisiert wurden.
 

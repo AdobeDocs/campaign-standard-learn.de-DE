@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 39%
+ht-degree: 42%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign hat zwei Typen oder Profile:
 * Identifizierte Profile
 * Testprofile
 
-Profile, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werden als **Zielgruppen**.
+Profile, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werden als **Zielgruppen** bezeichnet.
 
 In diesem Video wird beschrieben, wie Sie zu vorhandenen Profilen navigieren und in Adobe Campaign Standard Profile und Audiences erstellen.
 

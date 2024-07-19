@@ -14,12 +14,12 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '29'
-ht-degree: 17%
+ht-degree: 24%
 
 ---
 
-# Konfigurieren Sie eine [!UICONTROL Landingpage-Vorlage]
+# Konfigurieren einer [!UICONTROL Landingpage-Vorlage]
 
-In diesem Video wird beschrieben, wie Sie [!UICONTROL Landingpage] Vorlagen.
+In diesem Video wird beschrieben, wie Sie [!UICONTROL Landingpage]-Vorlagen konfigurieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}

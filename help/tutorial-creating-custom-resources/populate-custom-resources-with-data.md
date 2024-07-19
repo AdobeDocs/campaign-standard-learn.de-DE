@@ -10,15 +10,15 @@ team: TM
 exl-id: afd173f9-4e60-4e78-8f08-5d3894f78949
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 3%
 
 ---
 
 # Benutzerdefinierte Ressourcen mit Daten füllen
 
-Erfahren Sie, wie Sie benutzerdefinierte Ressourcen mit Daten aus einer [!DNL CSV] Datei mithilfe eines Workflows.
+Erfahren Sie, wie Sie mithilfe eines Workflows benutzerdefinierte Ressourcen mit Daten aus einer [!DNL CSV] -Datei füllen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-Weitere Informationen zum Auffüllen benutzerdefinierter Ressourcen über ein [!DNL API]finden Sie in der Dokumentation: [Interagieren mit benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Weitere Informationen zum Ausfüllen benutzerdefinierter Ressourcen mit einem [!DNL API] finden Sie in der Dokumentation: [Interagieren mit benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).

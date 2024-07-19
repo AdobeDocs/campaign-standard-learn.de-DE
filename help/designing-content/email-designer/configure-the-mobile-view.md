@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 63%
+ht-degree: 53%
 
 ---
 
-# Konfigurieren der mobilen Ansicht in [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Konfigurieren der Mobile-Ansicht in der [!UICONTROL E-Mail-Designer] {#configure-the-mobile-view}
 
 In diesem Video wird erläutert, wie Sie das responsive Design einer E-Mail anpassen, indem Sie alle Stiloptionen für die Anzeige auf Mobilgeräten einzeln bearbeiten.
 

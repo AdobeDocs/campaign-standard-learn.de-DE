@@ -14,23 +14,23 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '124'
 ht-degree: 6%
 
 ---
 
-# [!UICONTROL Zielgruppenziele] (BETA) - Übersicht
+# [!UICONTROL Audience Destinations] (BETA) - Übersicht
 
 ## Verwenden von Adobe Experience Platform-Zielgruppen in Adobe Campaign Standard
 
 >[!NOTE]
 >
->Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
+>Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Audience Destinations] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an [!UICONTROL Adobe-Kundenunterstützung] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
 >
 
-Mit dem Zielgruppen-Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus Adobe Experience Platform erstellen. [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Mit dem Zielgruppen-Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) erstellen.
 
 Die folgenden Video-Tutorials führen Sie durch die verschiedenen Schritte:
 

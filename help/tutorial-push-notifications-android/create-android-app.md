@@ -1,6 +1,6 @@
 ---
 title: 'Schritt 1: Erstellen der Android-App und Konfigurieren der Verwendung von Firebase Cloud Messaging'
-description: In diesem Teil erstellen wir [!DNL Android] App zum Empfang [!UICONTROL Push-Benachrichtigungen] von Adobe Campaign Standard gesendet. Um die Push-Benachrichtigungen zu erhalten, muss die App bei Google registriert sein. [!DNL Firebase Cloud Service].
+description: In diesem Teil erstellen wir die  [!DNL Android] App für den Empfang von [!UICONTROL Push-Benachrichtigungen], die von Adobe Campaign Standard gesendet werden. Um die Push-Benachrichtigungen zu erhalten, muss die App bei Google [!DNL Firebase Cloud Service] registriert sein.
 feature: Push
 user: Admin
 level: Experienced
@@ -17,23 +17,23 @@ ht-degree: 0%
 
 ---
 
-# 1. Schritt - Erstellung [!DNL Android] App und zu verwendende Konfiguration [!DNL Firebase Cloud Messaging]
+# Schritt 1: Erstellen der [!DNL Android]-App und Konfigurieren der Verwendung von [!DNL Firebase Cloud Messaging]
 
-In diesem Teil erstellen Sie [!DNL Android] App zum Empfang [!UICONTROL Push-Benachrichtigungen] von Adobe Campaign Standard gesendet. Um die Push-Benachrichtigungen zu erhalten, muss die App bei Google registriert sein. [!DNL Firebase Cloud Service].
+In diesem Teil erstellen Sie die [!DNL Android] App, um [!UICONTROL Push-Benachrichtigungen] von Adobe Campaign Standard zu erhalten. Um die Push-Benachrichtigungen zu erhalten, muss die App bei Google [!DNL Firebase Cloud Service] registriert sein.
 
-1. Melden Sie sich bei Ihrem [!DNL Firebase] -Konto.
+1. Melden Sie sich bei Ihrem [!DNL Firebase] -Konto an.
 
-   [!DNL Firebase] ist die mobile Plattform von Google, mit der Sie schnell hochwertige Apps entwickeln können. Wenn Sie keine [!DNL Firebase] Konto erstellen, erstellen Sie bitte ein [von hier](https://firebase.google.com).
+   [!DNL Firebase] ist die mobile Plattform von Google, mit der Sie schnell hochwertige Apps entwickeln können. Wenn Sie kein [!DNL Firebase] -Konto haben, erstellen Sie hier ](https://firebase.google.com) ein [Konto.
 
-2. Starten [!DNL Android Studio]
-3. Klicks **[!UICONTROL Datei]** > **[!UICONTROL Neu]** > **[!UICONTROL Neues Projekt].**
-4. Auswählen **[!UICONTROL Leere Aktivität]** und klicken **[!UICONTROL Nächste].**
+2. Launch [!DNL Android Studio]
+3. Klicken Sie auf **[!UICONTROL Datei]** > **[!UICONTROL Neu]** > **[!UICONTROL Neues Projekt].**
+4. Wählen Sie **[!UICONTROL Leere Aktivität]** und klicken Sie auf **[!UICONTROL Weiter].**
 
    ![android-project](assets/android-project.PNG)
 
 5. Geben Sie einen aussagekräftigen Namen für das Projekt an.
 
-   Für diese Demo haben wir unser Projekt als *[!DNL ACSPushTutorial]*
+   Für diese Demo haben wir unser Projekt als *[!DNL ACSPushTutorial]* bezeichnet.
 
    ![android-project-configuration](assets/android-project-configuration.PNG)
 
@@ -42,14 +42,14 @@ In diesem Teil erstellen Sie [!DNL Android] App zum Empfang [!UICONTROL Push-Ben
 
    ![android-project-structure](assets/android-project-structure.PNG)
 
-8. Klicks **[!UICONTROL Instrumente]** > **[!UICONTROL Firebase].** (Dadurch wird das Projekt zu [!DNL Firebase])
-9. Klicks **[!UICONTROL Firebase Cloud Messaging einrichten].**
+8. Klicken Sie auf **[!UICONTROL Tools]** > **[!UICONTROL Firebase].** (Dadurch wird das Projekt zu [!DNL Firebase] hinzugefügt)
+9. Klicken Sie auf **[!UICONTROL Firebase Cloud Messaging einrichten].**
 
-   ![Einrichten der Firebase](assets/android-project-firebase-messaging.PNG)
+   ![setup firebase](assets/android-project-firebase-messaging.PNG)
 
-10. Klicks **[!UICONTROL Verbindung zu Firebase herstellen].**
-11. Nachdem Ihre App mit Firebase verbunden ist, klicken Sie auf **[!UICONTROL Hinzufügen von FCM zu Ihrer App].**
-12. Klicks **[!UICONTROL Accept Changes].**
+10. Klicken Sie auf **[!UICONTROL Mit Firebase verbinden].**
+11. Nachdem Ihre App mit Firebase verbunden ist, klicken Sie auf **[!UICONTROL FCM zu Ihrer App hinzufügen].**
+12. Klicken Sie auf **[!UICONTROL Änderungen akzeptieren].**
 
    Wenn Sie FCM zu Ihrer App hinzufügen, benötigt der Assistent Ihre Berechtigung, um einige Änderungen an Ihrem Projekt vorzunehmen.
 
@@ -59,29 +59,29 @@ Bei erfolgreicher Integration Ihrer App mit Firebase erhalten Sie eine Meldung w
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Stellen Sie sicher, dass Ihr Projekt in [!DNL Firebase ]console](https://console.firebase.google.com/)
+[Stellen Sie sicher, dass Ihr Projekt in der [!DNL Firebase ]Konsole](https://console.firebase.google.com/) aufgeführt ist.
 
-## Konfigurieren [!UICONTROL Push-Kanal] Einstellungen
+## Einstellungen für [!UICONTROL Push-Kanal] konfigurieren
 
-1. Anmelden bei [!DNL Firebase] console
-2. Öffnen Sie die **[!UICONTROL ACSPushTutorial]** Projekt.
-3. Klicken Sie auf **Zahnradsymbol** und öffnen Sie die Projekteinstellungen.
+1. Bei der Konsole [!DNL Firebase] anmelden
+2. Öffnen Sie das Projekt **[!UICONTROL ACSPushTutorial]** .
+3. Klicken Sie auf das Zahnradsymbol **und öffnen Sie die Projekteinstellungen.**
 
    ![project-settings](assets/firebase-project-settings.PNG)
 
-4. Registerkarte zum **[!UICONTROL Cloud Messaging]** Registerkarte.
+4. Registerkarte zur Registerkarte **[!UICONTROL Cloud Messaging]** .
 5. Kopieren des Serverschlüssels
 
    ![server-key](assets/firebase-server-key.PNG)
 
 6. Bei Ihrer Adobe Campaign Standard-Instanz anmelden
-7. Klicks **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Kanäle]** > **[!UICONTROL Mobile App].**
-8. Wählen Sie die entsprechende **[!UICONTROL Eigenschaft für mobile Anwendungen].**
-9. Klicken Sie auf **[!DNL Android]icon** im **[!UICONTROL Push-Kanal-Einstellungen]** Abschnitt.
+7. Klicken Sie auf **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Kanäle]** > **[!UICONTROL Mobile App].**
+8. Wählen Sie die entsprechende **[!UICONTROL Eigenschaft der Mobile App].** aus.
+9. Klicken Sie auf das Symbol **[!DNL Android]** im Abschnitt **[!UICONTROL Push Channel settings]** .
 10. Fügen Sie den Serverschlüssel in das Feld für den Serverschlüssel ein.
 
 Wenn alles gut läuft, sollte eine SUCCESS-Meldung angezeigt werden.
 
 ![push-channel-settings](assets/push-channel-settings.PNG)
 
-Zusammenfassend ist festzustellen, dass wir eine [!DNL Android App] und die [!DNL Android App] mit [!DNL Firebase]. Anschließend wurde die App in Adobe Campaign mit der [!DNL Android App] durch Einfügen der [!DNL Android] Der Server-Schlüssel der App in der Mobile App in Adobe Campaign Standard.
+Zusammenfassend haben wir eine [!DNL Android App] erstellt und die [!DNL Android App] mit [!DNL Firebase] verbunden. Anschließend haben wir die Mobile App in Adobe Campaign mit dem [!DNL Android App] verbunden, indem wir den Serverschlüssel der [!DNL Android] App in die Mobile App in Adobe Campaign Standard eingefügt haben.

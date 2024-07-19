@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
-# Konfigurieren [!UICONTROL Veranstaltungen] {#configuring-events}
+# Konfigurieren von [!UICONTROL Ereignissen] {#configuring-events}
 
 Erfahren Sie, welcher Trigger eine Aktion ausgelöst hat und wie Sie diese Ereignisse konfigurieren.
 

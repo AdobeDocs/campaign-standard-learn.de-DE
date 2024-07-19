@@ -14,8 +14,8 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 5%
+source-wordcount: '133'
+ht-degree: 7%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Zielgruppenziele] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
+>Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Audience Destinations] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Bitte wenden Sie sich an [!UICONTROL Adobe-Kundenunterstützung] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows mithilfe der [!UICONTROL Audience lesen] -Aktivität.
+In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] in einem Workflow aktivieren, indem Sie die Aktivität [!UICONTROL Audience lesen] verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *Aktivieren einer Adobe Experience Platform-Zielgruppe in einem Workflow (02:37 Min.)*
 
-Informationen dazu finden Sie in der Produktdokumentation [Erfassen von Adobe Experience Platform-Zielgruppen in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Informationen zum [Erfassen von Adobe Experience Platform-Zielgruppen in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html) finden Sie in der Produktdokumentation

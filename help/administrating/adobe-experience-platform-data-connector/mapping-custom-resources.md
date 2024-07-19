@@ -12,21 +12,21 @@ team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 3%
+source-wordcount: '81'
+ht-degree: 6%
 
 ---
 
-# Zuordnung [!UICONTROL benutzerdefinierte Ressourcen]
+# Zuordnen von [!UICONTROL benutzerdefinierten Ressourcen]
 
 >[!NOTE]
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
 >
->Bitte wenden Sie sich an [!UICONTROL Adobe-Kundenunterstützung] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
 
 Erfahren Sie, wie Sie verschiedene Datentypen zwischen Adobe Campaign Standard und Adobe Experience Platform zuordnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-Weitere Informationen zum [Zuordnungsdefinition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Weitere Informationen zur Definition der [Zuordnung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) finden Sie in der Produktdokumentation .

@@ -11,8 +11,8 @@ team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 12%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 In diesem Teil fügen wir den Code hinzu, um die Erweiterungen Benutzerprofil, Identität, Lebenszyklus und Signal zu registrieren. Wir müssen auch die Adobe Campaign Standard-Erweiterung registrieren, wie im folgenden Code dargestellt.
 
-Öffnen Sie Ihr Projekt in [!DNL Android] Studio. Den gesamten Code in MainApp löschen **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung ist**.
+Öffnen Sie Ihr Projekt in [!DNL Android] Studio. Löschen Sie den gesamten Code in MainApp **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung** ist.
 
 Fügen Sie den folgenden Code in MainApp ein
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Zeile 32:[!UICONTROL  Launch] Die Umgebungsdatei-ID der Eigenschaft. Der Zugriff darauf erfolgt über die [!UICONTROL Umgebungs-Tab] Ihrer [!UICONTROL Launch] -Eigenschaft.
+In Zeile 32 müssen Sie die Umgebungs-Datei-ID der Eigenschaft[!UICONTROL  Launch] angeben. Der Zugriff darauf erfolgt über die Registerkarte [!UICONTROL Umgebung] Ihrer Eigenschaft [!UICONTROL Launch] .
 
 ![launch-id](assets/launch-id-property.PNG)

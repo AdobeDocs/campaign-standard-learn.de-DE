@@ -13,15 +13,15 @@ level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Aktivität &quot;Externes Signal&quot;] - Workflow mit Parametern aufrufen
+# [!UICONTROL Aktivität &quot;Externes Signal&quot;] - Aufruf eines Workflows mit Parametern
 
-Die [!UICONTROL Aktivität &quot;Externes Signal&quot;] wird verwendet, um verschiedene Prozesse zu organisieren und zu orchestrieren, die zum selben Kunden-Journey gehören, und in verschiedene Workflows zu integrieren. Diese Aktivität kann einen Workflow von einem anderen starten. Die [!UICONTROL Aktivität &quot;Externes Signal&quot;] kann einen Workflow aufrufen und Parameter übergeben, z. B. einen Zielgruppennamen, einen zu importierenden Dateinamen oder einen Teil des Nachrichteninhalts, von einem Workflow an einen anderen. Sie kann auch eine REST-API aufrufen, um eine Integration in externe Systeme wie ein Content-Management-System zu ermöglichen. Mit dem **Test** -Aktivität verwenden, können Tests für diese Funktion durchgeführt werden.
+Die Aktivität [!UICONTROL Externes Signal] wird verwendet, um verschiedene Prozesse zu organisieren und zu orchestrieren, die zum selben Kunden-Journey in verschiedene Workflows gehören. Diese Aktivität kann einen Workflow von einem anderen starten. Die Aktivität &quot;[!UICONTROL Externes Signal&quot;] kann einen Workflow aufrufen und Parameter übergeben, z. B. einen Zielgruppennamen in die Zielgruppe, einen zu importierenden Dateinamen oder einen Teil des Nachrichteninhalts von einem Workflow in einen anderen. Sie kann auch eine REST-API aufrufen, um eine Integration in externe Systeme wie ein Content-Management-System zu ermöglichen. Mit der Aktivität **Test** können Tests für diese Funktion ausgeführt werden.
 
-Erfahren Sie, wie Sie [!UICONTROL Aktivität &quot;Externes Signal&quot;] um Parameter** von einem externen System zu empfangen, passen Sie einen Workflow mit externen Parametern an und konfigurieren Sie eine Endaktivität, um einen Workflow mit den externen Parametern aufzurufen.
+Erfahren Sie, wie Sie die Aktivität &quot;[!UICONTROL Externes Signal&quot;] so konfigurieren, dass Parameter** von einem externen System empfangen werden, einen Workflow mit externen Parametern anpassen und eine Endaktivität konfigurieren, um einen Workflow mit den externen Parametern aufzurufen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

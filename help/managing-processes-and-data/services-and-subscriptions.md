@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 43%
+ht-degree: 22%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 43%
 
 Mit Adobe Campaign können Sie Newsletter und kanalübergreifende Kommunikationen mithilfe einer Reihe von Diensten erstellen und verwalten. Nachrichten können nur an Profile gesendet werden, die den Dienst abonniert haben (Opt-in). Diese Profile werden mithilfe eines speziellen Filters bei der Erstellung einer Nachricht identifiziert.
 
-Sie können Anmeldemechanismen einrichten, um Ihren Kunden die Möglichkeit zu geben, sich vor allem über E-Mails und Landingpages für diese Dienste anzumelden.
+Es können Anmeldemechanismen eingerichtet werden, um Ihren Kunden die Möglichkeit zu geben, sich insbesondere über E-Mails und Landingpages für diese Dienste anzumelden.
 
 Jeder Dienst ist mit folgenden Mechanismen ausgestattet:
 
 * Mechanismen zur Anmeldung (Opt-in) und Abmeldung (Opt-out).
 * Vorhandensein von Mechanismen zur Bestätigung von An- und/oder Abmeldung.
-* Verfolgung des Verlaufs von An- und Abmeldungen.
+* Ein Abonnementverlauf.
 
 In diesem Video erfahren Sie, wie Sie einen Dienst erstellen und seine Abonnements verwalten.
 

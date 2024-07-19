@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 39%
+source-wordcount: '81'
+ht-degree: 35%
 
 ---
 
@@ -25,4 +25,4 @@ Mit Adobe Campaign können Sie Landingpages erstellen, bei denen es sich um Onli
 
 ## Zusätzliche Ressourcen
 
-* [Landingpage erstellen (Dokumentation)](https://docs.campaign.adobe.com/doc/standard/getting_started/de/ACS_CreateLandingPage.html)
+* [Erstellen einer Landingpage (Dokumentation)](https://docs.campaign.adobe.com/doc/standard/getting_started/de/ACS_CreateLandingPage.html)

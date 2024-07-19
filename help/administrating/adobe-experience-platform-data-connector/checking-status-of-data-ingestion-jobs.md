@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 22%
+source-wordcount: '97'
+ht-degree: 29%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 22%
 >
 >Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
 >
->Bitte wenden Sie sich an [!UICONTROL Adobe-Kundenunterstützung] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
 
 Erfahren Sie, wie Sie den Status eines Datenerfassungsauftrags überprüfen können und ob die Daten aus Adobe Campaign Standard in Adobe Experience Platform erfasst wurden.
 

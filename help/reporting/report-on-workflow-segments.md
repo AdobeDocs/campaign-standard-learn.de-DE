@@ -12,17 +12,17 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 49%
+source-wordcount: '78'
+ht-degree: 20%
 
 ---
 
 # Erstellen eines Berichts auf der Basis von Workflow-Segmenten
 
-Nachdem Sie einen Workflow erstellt und Ihre Population durch Filterung in unterschiedliche Zielgruppen unterteilt haben, können Sie die Effizienz Ihrer Marketing-Kampagnen anhand von den in diesem Zielgruppen-Workflow definierten Segmenten messen.
+Nachdem Sie einen Workflow erstellt und Ihre Population in verschiedene Zielgruppen gefiltert haben, können Sie die Effizienz Ihrer Marketingkampagnen anhand der in diesem Zielgruppen-Workflow definierten Segmente messen.
 
 Erfahren Sie, wie Sie in Ihrem Workflow Segmente definieren und diese in dynamische Berichte umwandeln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Weitere Informationen finden Sie unter [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

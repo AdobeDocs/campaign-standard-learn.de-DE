@@ -8,16 +8,16 @@ feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
-source-wordcount: '1471'
+source-wordcount: '1475'
 ht-degree: 100%
 
 ---
 
 # E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten
 
-E-Mail-Marketing ist ein wertvolles Werkzeug für die Entwicklung von Markentreue und Steigerung von Umsätzen. Aufgrund der hohen Zahl von E-Mails, die Menschen täglich erhalten – von anderen digitalen Inhalten, die sie konsumieren, ganz zu schweigen –, ist es jedoch wichtig, dass sich Ihr Content von der Masse abhebt. Außerdem müssen Sie darauf achten, dass der Content den individuellen Bedürfnissen Ihrer Audience entspricht.
+E-Mail-Marketing ist ein wertvolles Werkzeug für die Entwicklung von Markentreue und Steigerung von Umsätzen. Aufgrund der hohen Zahl von E-Mails, die Menschen täglich erhalten – von anderen digitalen Inhalten, die sie konsumieren, ganz zu schweigen –, ist es jedoch wichtig, dass sich Ihr Content von der Masse abhebt. Außerdem müssen Sie darauf achten, dass der Content den individuellen Bedürfnissen Ihrer Zielgruppe entspricht.
 
-In diesem Artikel stellen wir Ihnen vier Strategien vor, mit denen Sie die Interaktion mit Abonnentinnen und Abonnenten und den Gesamterfolg Ihrer E-Mail-Kampagnen verbessern können. Zudem erörtern wir Ermüdung durch zu viele E-Mails und wie Sie das in Ihren Audiences erkennen können. Anschließend beschreiben wir einfache Maßnahmen, die Sie zur Verbesserung des Abonnentenerlebnisses ergreifen können.
+In diesem Artikel stellen wir Ihnen vier Strategien vor, mit denen Sie die Interaktion mit Abonnentinnen und Abonnenten und den Gesamterfolg Ihrer E-Mail-Kampagnen verbessern können. Zudem erörtern wir Ermüdung durch zu viele E-Mails und wie Sie das in Ihren Zielgruppen erkennen können. Anschließend beschreiben wir einfache Maßnahmen, die Sie zur Verbesserung des Abonnentenerlebnisses ergreifen können.
 
 ## Was ist Zustellbarkeit?
 
@@ -56,9 +56,9 @@ Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kenn
 ### 2. Infrastruktur
 
 * Stellen Sie sicher, dass die E-Mail-Authentifizierung richtig eingerichtet ist, indem Sie einen Test mit Ihrer eigenen E-Mail-Adresse durchführen.
-* Machen Sie sich mit der Bounce-Handhabung vertraut und prüfen Sie die Leistung Ihrer ISPs.
+* Machen Sie sich mit der Bounce-Handhabung vertraut und prüfen Sie die Performance Ihrer ISPs.
    * Gibt es potenzielle Probleme oder Sperrungen bei einem bestimmten ISP?
-   * Seien Sie sich der Herausforderungen bewusst, bevor Sie mit dem Versand großer E-Mail-Mengen beginnen, um unangenehme Überraschungen und ungenügende Kampagnenleistung zu verhindern.
+   * Seien Sie sich der Herausforderungen bewusst, bevor Sie mit dem Versand großer E-Mail-Mengen beginnen, um unangenehme Überraschungen und ungenügende Kampagnen-Performance zu verhindern.
 
 ### 3. Daten
 
@@ -69,7 +69,7 @@ Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kenn
 
 * Schicken Sie eine Begrüßungs-E-Mail an neue Abonnentinnen und Abonnenten:
    * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnentinnen und Abonnenten unvorbereitet sind und sich gleich wieder abmelden bzw. Nachrichten als Spam markieren.
-   * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Leistung. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Leistung oder eine schlechte Datenerfassung ist.
+   * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Performance. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Performance oder eine schlechte Datenerfassung ist.
 
 ### 4. E-Mail-Verwaltung
 
@@ -88,7 +88,7 @@ Zu den zu überwachenden Schlüsselmetriken gehören:
 
 Leider werden es Ihnen die meisten Abonnentinnen und Abonnenten, die an Ermüdung leiden, nicht leicht machen. Sie werden ihre Abonnements nicht selbst kündigen (ein klares Zeichen dafür, dass sie mit dem Inhalt nicht zufrieden sind). Vielmehr werden viele Abonnentinnen und Abonnenten Ihre E-Mails einfach löschen oder ignorieren, sodass Sie ggf. weiterhin Öffnungen von Abonnentinnen und Abonnenten sehen, die eigentlich kein Interesse mehr haben. Fazit: Wenn Sie nicht auf sich ändernde Gewohnheiten Ihrer Abonnentinnen und Abonnenten reagieren, kann das Ihrer Reputation als Absender schaden, was letztendlich den Gesamterfolg beeinträchtigt.
 
-In dem Zusammenhang gibt es einige Best Practices, mit denen Sie Abonnentinnen und Abonnenten an sich binden und vorhersagen können, welche Art von Content sie erhalten möchten. So lassen sich Abmeldungen und inaktive Audiences vermeiden.
+In dem Zusammenhang gibt es einige Best Practices, mit denen Sie Abonnentinnen und Abonnenten an sich binden und vorhersagen können, welche Art von Content sie erhalten möchten. So lassen sich Abmeldungen und inaktive Zielgruppen vermeiden.
 
 ### 1. Erstellen einer Strategie für E-Mail-Häufigkeit.
 
@@ -120,7 +120,7 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 
 **Aktualisieren von Versandmustern und -plänen**
 
-* **Langsam anfangen** – Es handelt sich hierbei um einen Marathon, nicht um einen Sprint. Es gibt keine Lösung, die Sie an einem Tag implementieren können. Erwägen Sie, mit einem kleinen Teil Ihrer Audience (vielleicht 4–5 %) zu beginnen, und überwachen Sie die Leistung genau.
+* **Langsam anfangen** – Es handelt sich hierbei um einen Marathon, nicht um einen Sprint. Es gibt keine Lösung, die Sie an einem Tag implementieren können. Erwägen Sie, mit einem kleinen Teil Ihrer Zielgruppe (vielleicht 4–5 %) zu beginnen, und überwachen Sie die Performance genau.
 
 * **Markenreputation berücksichtigen** – Stellen Sie sicher, dass E-Mail-Traffic an inaktive Segmente keine Reputationsprobleme verursacht.
 
@@ -132,7 +132,7 @@ Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmu
 
 * **Klare OPT-IN-/OPT-OUT-Optionen bieten** – Machen Sie es Benutzerinnen und Benutzern leicht, schnell zu entscheiden, ob sie von Ihnen hören möchten oder nicht. Ggf. werden Sie mit einem Opt-in belohnt, wenn Sie zuerst auf ihre Bedürfnisse achten, anstatt sich auf den geschäftlichen Interaktionsbedarf zu konzentrieren.
 
-* **Zentrale Verwaltung von Vorlieben** – Hiermit können Sie Abonnentinnen und Abonnenten zusätzliche Kontrollmöglichkeiten verschaffen, damit sie zwischen unterschiedlichen E-Mail-Inhalten wie Newslettern, Werbeangeboten, Veranstaltungen usw. und zwischen unterschiedlichen Häufigkeiten wählen können. Denken Sie daran: Wenn Sie sich für ein solches Angebot entscheiden, sollten Sie sicherstellen, dass Sie Ihre Audience verfolgen und ordnungsgemäß segmentieren können, um ihre Vorlieben zu erfüllen.
+* **Zentrale Verwaltung von Vorlieben** – Hiermit können Sie Abonnentinnen und Abonnenten zusätzliche Kontrollmöglichkeiten verschaffen, damit sie zwischen unterschiedlichen E-Mail-Inhalten wie Newslettern, Werbeangeboten, Veranstaltungen usw. und zwischen unterschiedlichen Häufigkeiten wählen können. Denken Sie daran: Wenn Sie sich für ein solches Angebot entscheiden, sollten Sie sicherstellen, dass Sie Ihre Zielgruppe verfolgen und ordnungsgemäß segmentieren können, um ihre Vorlieben zu erfüllen.
 
 * **Überzeugende Betreffzeilen** – Achten Sie darauf, dass diese sich von den Inhalten anderer Marken unterscheiden.
 

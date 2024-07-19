@@ -1,6 +1,6 @@
 ---
 title: Verwenden existierender Inhalte
-description: Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in Email Designer laden können.
+description: Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in die E-Mail-Designer laden können.
 feature: Email Design
 jira: KT-6295
 thumbnail: 25926.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 24%
+source-wordcount: '96'
+ht-degree: 23%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 24%
 
 ## Inhalt aus einer URL importieren
 
-Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in Email Designer laden können.
+Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in die E-Mail-Designer laden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
 
 ## Kompatibilität vorhandener HTML-Inhalte {#making-existing-html-content-compatible}
 
-Email Designer erfordert ein spezifisches Tagging, das angewendet werden muss, um standardmäßige HTML-Inhalte, die in Adobe Campaign hochgeladen werden, vollständig kompatibel und bearbeitbar zu machen.
+E-Mail-Designer erfordert ein spezifisches Tagging, das angewendet werden muss, um standardmäßige HTML-Inhalte, die auf Adobe Campaign hochgeladen werden, vollständig kompatibel und bearbeitbar zu machen.
 
 Die ausführliche Dokumentation finden Sie unter folgendem Link:
 

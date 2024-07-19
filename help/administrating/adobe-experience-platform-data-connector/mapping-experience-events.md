@@ -12,20 +12,20 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '67'
+ht-degree: 16%
 
 ---
 
-# Zuordnung [!UICONTROL Erlebnisereignisse]
+# Zuordnen von [!UICONTROL Erlebnisereignissen]
 
 >[!NOTE]
 >
 >Diese Funktion befindet sich derzeit in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
 >
->Bitte wenden Sie sich an [!UICONTROL Adobe-Kundenunterstützung] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
 
-Erfahren Sie, wie Sie [!UICONTROL Erlebnisereignisse] in Adobe Experience Platform (AEP).
+Erfahren Sie, wie Sie [!UICONTROL Erlebnisereignisse] in Adobe Experience Platform (AEP) zuordnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
 

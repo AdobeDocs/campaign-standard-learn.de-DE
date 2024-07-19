@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 8%
+ht-degree: 12%
 
 ---
 
-# Erstellen Sie einen Bericht zu Ihrer [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Bericht zu Ihrem [!UICONTROL In-App]-Versand {#in-app-message-reporting}
 
 Erfahren Sie, wie Sie dem Benutzer als Reaktion auf das Echtzeit-Verhalten eines Kunden in der Mobile App kontextuell relevante In-App-Nachrichten präsentieren.
 

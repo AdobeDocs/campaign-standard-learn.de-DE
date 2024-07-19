@@ -12,23 +12,23 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 1%
 
 ---
 
-# Erstellen Sie eine [!UICONTROL Briefpost] {#create-a-direct-mail}
+# Erstellen einer [!UICONTROL Briefpost] {#create-a-direct-mail}
 
-Die [!UICONTROL Briefpost] -Kanal können Sie eine segmentierte Liste von Empfängern extrahieren, die an eine Agentur gesendet oder auf einen SFTP-Server hochgeladen werden sollen.
+Mit dem Kanal [!UICONTROL Briefpost] können Sie eine segmentierte Liste von Empfängern extrahieren, die an eine Agentur gesendet oder auf einen SFTP-Server hochgeladen werden.
 
-In diesem Video wird beschrieben, wie Sie eine [!UICONTROL Briefpost] -Versand und welche Einstellungen erforderlich sind, um ein Profil zu einem [!UICONTROL Briefpost] -Versand.
+In diesem Video wird beschrieben, wie Sie einen [!UICONTROL Briefpost] -Versand konfigurieren und welche Einstellungen erforderlich sind, um einem [!UICONTROL Briefpost] -Versand ein Profil hinzufügen zu können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
-## Erstellen Sie eine [!UICONTROL Briefpost] innerhalb eines Workflows
+## Erstellen einer [!UICONTROL Briefpost] innerhalb eines Workflows
 
-Der Kanal ist auf der Startseite und in der Workflow-Ansicht verfügbar, um konsistente, kanalübergreifende Marketingstrategien zu definieren. Der folgende Beispiel-Workflow enthält die [!UICONTROL Briefpost-Aktivität].
+Der Kanal ist auf der Startseite und in der Workflow-Ansicht verfügbar, um konsistente, kanalübergreifende Marketingstrategien zu definieren. Der folgende Beispiel-Workflow umfasst die Aktivität [!UICONTROL Briefpost].
 
 ![Workflow-Bild](/help/assets/direct_mail_examplewf.png)
 
-Weitere Informationen finden Sie in der Produktdokumentation . [Über Briefpost](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Weitere Informationen zu Briefpost finden Sie in der Produktdokumentation [über Briefpost](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html) .
