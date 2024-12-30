@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Inhalten mit Adobe Dreamweaver
-description: Erfahren Sie, was für die Aktivierung der Dreamweaver-Integration erforderlich ist und wie Sie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellen und bearbeiten.
+description: Erfahren Sie, was erforderlich ist, um die Dreamweaver-Integration zu aktivieren, und wie Sie mit Dreamweaver Inhalte für Adobe Campaign Standard erstellen und bearbeiten.
 feature: Email Design
 jira: KT-1420
 thumbnail: 23121.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 65%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,4 +35,4 @@ In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderli
 
 *Verwenden der Dreamweaver-Integration in Adobe Campaign (02:37 min)*
 
-Weitere Informationen zur Fehlerbehebung bei der Adobe Campaign Dreamweaver-Installation finden Sie in der Dokumentation zu Dreamweaver [Adobe Dreamweaver](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html) .[](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
+Weitere Informationen finden Sie in der Dokumentation ](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html) Dreamweaver [Adobe Dreamweaver[ unter „Fehlerbehebung bei der Installation von Adobe Campaign Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

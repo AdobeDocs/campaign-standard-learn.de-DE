@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren und Ausführen eines Workflows mit der Aktivität "Externe API"
-description: Erfahren Sie, wie Sie einen externen REST-API-Endpunkt aufrufen, um Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu ziehen.
+description: Erfahren Sie, wie Sie einen externen REST-API-Endpunkt aufrufen, um Personalisierungsdaten aus einem Drittanbietersystem in Ihre Kampagne zu ziehen.
 feature: Data Management Activity
 jira: KT-2764
 thumbnail: 28200.jpg
@@ -12,14 +12,14 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 54%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Konfigurieren und Ausführen eines Workflows mit der [!UICONTROL Aktivität &quot;Externe API&quot;]
 
-Die [!UICONTROL Aktivität &quot;Externe API&quot;] ist eine [!UICONTROL Datenverwaltungsaktivität]. Damit können Sie einen externen REST-API-Endpunkt aufrufen. Ziel dieser Aktivität ist es, Personalisierungsdaten von einem Drittanbietersystem in Ihre Kampagne zu übertragen.
+Die [!UICONTROL Aktivität &quot;Externe API&quot;] ist eine [!UICONTROL Datenverwaltungsaktivität]. Damit können Sie einen externen REST-API-Endpunkt aufrufen. Der Zweck dieser Aktivität besteht darin, Personalisierungsdaten aus einem Drittanbietersystem in Ihre Kampagne zu übertragen.
 
 Beispiele für Anwendungsfälle sind:
 
@@ -36,4 +36,4 @@ In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API
 
 >[!NOTE]
 >
->Die Aktivität dient zum Abrufen kampagnenweiter Daten, nicht zum Abrufen spezifischer Informationen für jedes Profil, da dies zu einer Übertragung großer Datenmengen führen kann. Wenn der Anwendungsfall profilspezifische Informationen erfordert, wird empfohlen, die Aktivität Datei übertragen zu verwenden.
+>Die Aktivität ist für den Abruf kampagnenweiter Daten vorgesehen, nicht für das Abrufen spezifischer Informationen für jedes Profil, da dies zu großen Datenmengen führen kann. Wenn der Anwendungsfall profilspezifische Informationen erfordert, wird empfohlen, die Aktivität Datei übertragen zu verwenden.

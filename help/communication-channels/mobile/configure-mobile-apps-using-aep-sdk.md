@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren einer Mobile App mithilfe des Adobe Experience Platform SDK
-description: Erfahren Sie, wie Sie eine App in Adobe Experience Platform Launch einrichten und in Adobe Campaign konfigurieren.
+description: Erfahren Sie, wie Sie eine Mobile App in Adobe Experience Platform Launch einrichten und wie Sie sie in Adobe Campaign konfigurieren.
 feature: In App, Push, Channel Configuration, Mobile SDK Integration
 jira: KT-2501
 thumbnail: 26224.jpg
@@ -12,20 +12,20 @@ role: Admin
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Eine Mobile App mit dem [!UICONTROL Adobe Experience Platform SDK] konfigurieren
+# Konfigurieren einer Mobile App mit [!UICONTROL Adobe Experience Platform SDK]
 
-Um In-App-Nachrichten oder [!UICONTROL Push-Benachrichtigungen] mit dem Mobile SDK V5 zu senden, muss die Mobile App in [!UICONTROL Adobe Experience Platform Launch] eingerichtet und in Adobe Campaign konfiguriert werden.
+Um In-App-Nachrichten oder [!UICONTROL Push-Benachrichtigungen] mit Mobile SDK V5 zu senden, muss die Mobile App in [!UICONTROL Adobe Experience Platform Launch] eingerichtet und in Adobe Campaign konfiguriert werden.
 
-In den folgenden Videos werden die erforderlichen Schritte zum Konfigurieren einer Mobile App unter Experience Platform Launch gezeigt:
+Die folgenden Videos zeigen die erforderlichen Schritte zum Konfigurieren einer Mobile App in Experience Platform Launch:
 
 >[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
 
 >[!NOTE]
 >
->Eine detaillierte Dokumentation und die im Video verwendeten Codevorlagen finden Sie unter [Konfigurieren der Anwendung in [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) .
+>Unter [Konfigurieren Ihrer Anwendung in [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) finden Sie die ausführliche Dokumentation und die im Video verwendeten Code-Vorlagen.

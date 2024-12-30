@@ -1,6 +1,6 @@
 ---
 title: Vorschau der E-Mail und Anti-Spam-Analyse
-description: "Erfahren Sie, wie Sie eine Vorschau Ihrer E-Mail und der Anti-Spam-Analyse anzeigen können."
+description: Erfahren Sie, wie Sie Ihre E-Mail in der Vorschau anzeigen und die Anti-Spam-Analyse durchführen.
 feature: Email Design
 jira: KT-2393
 thumbnail: 25921.jpg
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 73%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

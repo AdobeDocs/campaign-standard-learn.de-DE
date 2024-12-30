@@ -12,15 +12,15 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 22%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Erstellen eines SMS-Versands{#creating-a-sms-delivery}
 
-Erfahren Sie, wie Sie in Adobe Campaign Standard einen SMS-Versand erstellen. Sie können den SMS-Versand auch in einem Workflow mithilfe der SMS-Versandaktivität konfigurieren.
+Erfahren Sie, wie Sie einen SMS-Versand in Adobe Campaign Standard erstellen. Sie können auch den SMS-Versand innerhalb eines Workflows mithilfe der SMS-Versandaktivität konfigurieren.
 
-Der SMS-Versand dient der Automatisierung des SMS-Versands. Die Konfiguration dieser Aktivität entspricht der Konfiguration des einmaligen Versands, der im Video beschrieben wird.
+Die SMS-Versandaktivität wird verwendet, um den Versand von SMS zu automatisieren. Die Konfiguration dieser Aktivität entspricht der Konfiguration des im Video beschriebenen einmaligen Versands.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}

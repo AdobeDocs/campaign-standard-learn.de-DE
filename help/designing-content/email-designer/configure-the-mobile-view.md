@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren der mobilen Ansicht in Email Designer
-description: "Erfahren Sie, wie Sie das responsive Design einer E-Mail anpassen können, indem Sie alle Stiloptionen für die Anzeige auf Mobilgeräten einzeln bearbeiten."
+description: Erfahren Sie, wie Sie das responsive Design einer E-Mail optimieren können, indem Sie alle Stiloptionen für Mobilgeräte separat bearbeiten.
 feature: Email Design
 jira: KT-2423
 thumbnail: 25919.jpg
@@ -12,12 +12,12 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 53%
+source-wordcount: '56'
+ht-degree: 51%
 
 ---
 
-# Konfigurieren der Mobile-Ansicht in der [!UICONTROL E-Mail-Designer] {#configure-the-mobile-view}
+# Mobilansicht in der [!UICONTROL E-Mail-Designer] konfigurieren {#configure-the-mobile-view}
 
 In diesem Video wird erläutert, wie Sie das responsive Design einer E-Mail anpassen, indem Sie alle Stiloptionen für die Anzeige auf Mobilgeräten einzeln bearbeiten.
 

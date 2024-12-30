@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 23%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in di
 
 ## Kompatibilität vorhandener HTML-Inhalte {#making-existing-html-content-compatible}
 
-E-Mail-Designer erfordert ein spezifisches Tagging, das angewendet werden muss, um standardmäßige HTML-Inhalte, die auf Adobe Campaign hochgeladen werden, vollständig kompatibel und bearbeitbar zu machen.
+E-Mail-Designer erfordert ein spezifisches Tagging, das angewendet werden muss, damit die auf Adobe Campaign hochgeladenen Standard-HTML-Inhalte vollständig kompatibel und bearbeitbar sind.
 
 Die ausführliche Dokumentation finden Sie unter folgendem Link:
 

@@ -1,6 +1,6 @@
 ---
 title: Überprüfen des Status von Datenaufnahmevorgängen
-description: Erfahren Sie, wie Sie den Status überprüfen und das Daten-Mapping ändern.
+description: Erfahren Sie, wie Sie den Status überprüfen und die Datenzuordnung ändern.
 feature: People Core Service Integration
 audience: administrator
 jira: KT-2831
@@ -13,8 +13,8 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 29%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 29%
 >
 >Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
 >
->Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 
-Erfahren Sie, wie Sie den Status eines Datenerfassungsauftrags überprüfen können und ob die Daten aus Adobe Campaign Standard in Adobe Experience Platform erfasst wurden.
+Erfahren Sie, wie Sie den Status eines Datenaufnahmevorgangs überprüfen und ob die Daten von Adobe Campaign Standard in Adobe Experience Platform aufgenommen wurden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?learn=on){transcript=true}
 

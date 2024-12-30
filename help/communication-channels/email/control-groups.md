@@ -12,14 +12,14 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Hinzufügen einer [!UICONTROL Kontrollgruppe] zu einem [!UICONTROL Versand]
 
-Durch die Verwendung von [!UICONTROL Kontrollgruppen] können Sie die Wirkung Ihres [!UICONTROL Versands] messen und Ihre Marketing-Kampagne optimieren.
+Mithilfe von [!UICONTROL Kontrollgruppen] können Sie die Wirkung Ihres [!UICONTROL Versands] messen und Ihre Marketing-Kampagne optimieren.
 
 Mit [!DNL Adobe Campaign Standard] können Sie eine [!UICONTROL Kontrollgruppe] erstellen, die nach dem Zufallsprinzip oder auf der Grundlage bestimmter Kriterien von Ihrer Ziel-Audience ausgeschlossen werden kann. Das Verhalten der [!UICONTROL Kontrollgruppe] kann dann als Benchmark dienen, um einen Vergleich mit dem Verhalten der Zielpopulation vorzunehmen, die die Marketing-Kommunikation erhalten hat.
 

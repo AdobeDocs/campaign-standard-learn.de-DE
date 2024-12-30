@@ -12,8 +12,8 @@ recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 86%
 
 Adobe Campaign bietet Datenverantwortlichen drei Methoden zum Ausführen von Datenschutzzugriffs- und Löschanfragen von PII-Daten unter Einhaltung von Datenschutzvorschriften wie der DSGVO (Datenschutz-Grundverordnung) und dem CCPA (California Consumer Privacy Act):
 
-* **Über die Privacy Core Service-Integration:** Datenschutzanfragen, die von [!UICONTROL Privacy Service] an alle Experience Cloud-Lösungen gesendet werden, werden von Campaign über einen dedizierten Workflow automatisch verarbeitet.
+* **Über die Privacy Core Service-Integration:** Datenschutzanfragen, die vom [!UICONTROL Privacy Service ] an alle Experience Cloud-Lösungen gesendet werden, werden von Campaign automatisch über einen dedizierten Workflow verarbeitet.
 
 * **Über die API:** Adobe Campaign bietet eine API, mit der Datenschutzanfragen durch die Verwendung von REST automatisch verarbeitet werden können.
 

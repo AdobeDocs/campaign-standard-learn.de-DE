@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Profils
-description: Erfahren Sie, wie Sie ein Profil erstellen und es einer Zielgruppe hinzufügen.
+description: Erfahren Sie, wie Sie ein Profil erstellen und es zu einer Audience hinzufügen.
 feature: Profiles, Audiences
 jira: KT-1820
 thumbnail: 25277.jpg
@@ -12,13 +12,13 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 13%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Profile erstellen
+# Erstellen eines Profils
 
-In diesem Video wird beschrieben, wie Sie ein Profil erstellen und es einer Zielgruppe hinzufügen.
+In diesem Video wird beschrieben, wie Sie ein Profil erstellen und es zu einer Audience hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}

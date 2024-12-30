@@ -14,19 +14,19 @@ hide: true
 hidefromtoc: true
 source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Zielgruppendimension [!UICONTROL Plattform-Zielgruppe] ändern
+# Ändern der Zielgruppendimension [!UICONTROL Platform-Zielgruppe]
 
 >[!NOTE]
 >
 >Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Audience Destinations] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für eine [!UICONTROL Plattform-Zielgruppe] außerhalb der primären Profiltabelle in Adobe Campaign Standard ändern können.
+In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für eine [!UICONTROL Platform-Zielgruppe] außerhalb der primären Profiltabelle in Adobe Campaign Standard ändern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

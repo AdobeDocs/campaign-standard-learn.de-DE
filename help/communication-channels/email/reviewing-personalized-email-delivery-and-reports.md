@@ -1,6 +1,6 @@
 ---
 title: Prüfen von E-Mail-Versand und -Berichten
-description: Erfahren Sie, wie Sie einen personalisierten E-Mail-Versand überprüfen und verschiedene in Adobe Campaign Standard verfügbare Berichte untersuchen können.
+description: Erfahren Sie, wie Sie einen personalisierten E-Mail-Versand überprüfen und verschiedene in Adobe Campaign Standard verfügbare Berichte erkunden.
 feature: Reporting
 jira: KT-3904
 thumbnail: 21389.jpg
@@ -12,13 +12,13 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 25%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Prüfen von E-Mail-Versand und -Berichten
 
-In diesem Video wird erläutert, wie Sie einen personalisierten E-Mail-Versand überprüfen und verschiedene in Adobe Campaign Standard verfügbare Berichte untersuchen können.
+In diesem Video wird erläutert, wie Sie einen personalisierten E-Mail-Versand überprüfen und verschiedene in Adobe Campaign Standard verfügbare Berichte erkunden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}

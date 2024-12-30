@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines In-App-Versands in einem Workflow
-description: Erfahren Sie, wie Sie mit der Aktivität In-App-Versand den In-App-Versand automatisieren können, indem Sie eine In-App-Nachricht an eine innerhalb eines Workflows berechnete Zielgruppe senden.
+description: Erfahren Sie, wie Sie mit der In-App-Versandaktivität das Senden einer In-App-Nachricht an eine in einem Workflow berechnete Zielgruppe automatisieren können.
 feature: In App
 jira: KT-2500
 thumbnail: 26226.jpg
@@ -12,13 +12,13 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 15%
+source-wordcount: '58'
+ht-degree: 12%
 
 ---
 
-# Erstellen eines [!UICONTROL In-App]-Versands innerhalb eines Workflows
+# Erstellen [!UICONTROL  In-App]Versands innerhalb eines Workflows
 
-Erfahren Sie, wie Sie mit der Aktivität In-App-Versand den In-App-Versand automatisieren können, indem Sie eine In-App-Nachricht an eine innerhalb eines Workflows berechnete Zielgruppe senden.
+Erfahren Sie, wie Sie mit der In-App-Versandaktivität das Senden einer In-App-Nachricht an eine in einem Workflow berechnete Zielgruppe automatisieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}

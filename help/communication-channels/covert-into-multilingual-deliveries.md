@@ -1,6 +1,6 @@
 ---
 title: Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Versandvorlagen in mehrere Sprachen
-description: Hier erfahren Sie, wie Sie eine vorhandene E-Mail, einen SMS-Versand oder eine Versandvorlage in eine mehrsprachige Nachricht konvertieren.
+description: Erfahren Sie, wie Sie vorhandene E-Mail-, SMS- oder Versandvorlagen in mehrsprachige Sendungen konvertieren können.
 feature: Email, SMS
 jira: KT-1703
 thumbnail: 23251.jpg
@@ -12,15 +12,15 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 33%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Konvertieren vorhandener E-Mail- und SMS-Sendungen oder Versandvorlagen in mehrere Sprachen
 
-In diesem Video wird gezeigt, wie ein vorhandener E-Mail-, SMS-Versand oder eine Versandvorlage einfach in mehrere Sprachen konvertiert werden kann.
+In diesem Video wird gezeigt, wie ein vorhandener E-Mail- oder SMS-Versand oder eine Versandvorlage einfach in mehrere Sprachen konvertiert werden kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-Weitere Informationen zum Erstellen einer mehrsprachigen E-Mail finden Sie in der Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)[
+Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Erstellen einer mehrsprachigen E-Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

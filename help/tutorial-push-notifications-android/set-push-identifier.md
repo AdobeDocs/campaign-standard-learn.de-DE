@@ -1,6 +1,6 @@
 ---
-title: 'SCHRITT 4: Festlegen der Pushidentifier'
-description: Der **pushIdentifier** ist eine Zeichenfolge, die das Geräte-Token für Push-Benachrichtigungen enthält. Es handelt sich um dasselbe Token, das von Firebase gesendet und mithilfe der MobileCore.setPushIdentifier -Methode an das SDK übergeben wird.
+title: 'SCHRITT 4: Festlegen der Push-Kennung'
+description: Der **pushIdentifier** ist eine Zeichenfolge, die das Geräte-Token für Push-Benachrichtigungen enthält. Es ist dasselbe Token, das von Firebase gesendet und mit der MobileCore.setPushIdentifier-Methode an die SDK übergeben wird.
 feature: Push
 user: Admin
 level: Experienced
@@ -11,16 +11,16 @@ team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Schritt 4: Festlegen von [!DNL pushidentifier]
+# Schritt 4: [!DNL pushidentifier] festlegen
 
-Der **[!DNL pushidentifier]** ist eine Zeichenfolge, die das Geräte-Token für [!DNL Push] -Benachrichtigungen enthält. Es ist dasselbe Token, das von [!DNL Firebase] gesendet und mithilfe der [!DNL MobileCore.setPushIdentifier] -Methode an das SDK übergeben wird.
+Der **[!DNL pushidentifier]** ist eine Zeichenfolge, die das Geräte-Token für [!DNL Push]-Benachrichtigungen enthält. Es ist dasselbe Token, das von [!DNL Firebase] gesendet und mit der [!DNL MobileCore.setPushIdentifier]-Methode an den SDK übergeben wird.
 
-Öffnen Sie Ihr Projekt in [!DNL Android™]studio. Löschen Sie den gesamten Code in [!DNL MainActivity] **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung** ist.
+Öffnen Sie Ihr Projekt in [!DNL Android™]studio. Löschen Sie den gesamten Code in [!DNL MainActivity] **mit Ausnahme der ersten Zeile, die Ihre Paketanweisung ist**.
 
 Fügen Sie den folgenden Code in [!DNL MainActivity] ein:
 
@@ -87,23 +87,23 @@ MobileCore.lifecyclePause();
 }
 ```
 
-## App testen
+## Testen der App
 
-Jetzt ist eine gute Zeit, Ihre App zu testen, bevor Sie weitermachen.
+Jetzt ist ein guter Zeitpunkt, um Ihre App zu testen, bevor Sie fortfahren.
 
 * Führen Sie Ihre App aus, indem Sie auf den grünen Pfeil klicken oder **[!DNL Run->Run'app']** auswählen.
-* Der [!DNL Android™]-Emulator sollte starten und Sie sollten sehen, wie Ihre App mit [!DNL "Hello World"]text ausgeführt wird.
-* Öffnen Sie das Fenster &quot;[!DNL logcat]&quot;. Suchen Sie nach &quot;[!DNL Got]&quot;. Das Token, das von [!DNL Firebase] empfangen wurde, sollte wie unten gezeigt in das Protokoll geschrieben sein. Die lange Zeichenfolge nach &quot;[!DNL Got token]&quot; ist die [!DNL pushidentifier], die an Adobe Campaign gesendet wird.
+* Der [!DNL Android™]-Emulator sollte gestartet werden und die App sollte mit &quot;[!DNL "Hello World"]&quot; ausgeführt werden.
+* Öffnen Sie das [!DNL logcat]. Suchen Sie nach &quot;[!DNL Got]&quot;. Sie sollten das Token sehen, das von [!DNL Firebase] empfangen wurde, das wie unten dargestellt in das Protokoll geschrieben wurde. Die lange Zeichenfolge nach &quot;[!DNL Got token]&quot; ist die [!DNL pushidentifier], die an Adobe Campaign gesendet wird.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### Mobile-App-Abonnenten überprüfen
 
 Melden Sie sich bei Ihrer Adobe Campaign Standard-Instanz an.
-Navigieren Sie zu **[!UICONTROL Administration->Kanäle->Mobile App(Experience Platform SDK)]**. Öffnen Sie die entsprechende Mobile App. Registerkarte auf der Registerkarte [!UICONTROL Mobile-App-Abonnenten] . Es sollte ein [!UICONTROL Registrierungstoken]aufgelistet sein.
+Navigieren Sie **[!UICONTROL Administration->Kanäle->Mobile App (Experience Platform SDK)]**. Öffnen Sie die entsprechende Mobile App. Wechseln Sie zur Registerkarte [!UICONTROL Mobile-App-Abonnenten] . Es sollte ein „Registrierungs[!UICONTROL Token“ ] werden.
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->Wenn Sie das Anmeldetoken nicht auf der Registerkarte [!UICONTROL Mobile-App-Abonnenten] sehen, STOP hier , bevor Sie fortfahren.
+>Wird das Anmelde-Token auf der Registerkarte [!UICONTROL Mobile-App-Abonnenten] hier nicht angezeigt, fahren Sie mit dem Vorgang fort.

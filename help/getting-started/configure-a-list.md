@@ -1,5 +1,5 @@
 ---
-title: Listen konfigurieren
+title: 'Listen konfigurieren '
 description: Erfahren Sie, wie Sie die angezeigten Spalten, die Reihenfolge und die Sortierreihenfolge einer Listenansicht in Adobe Campaign Standard ändern können.
 feature: Audiences
 jira: KT-1821
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 5972050bc3245b779a3532a257917d4449b063c0
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

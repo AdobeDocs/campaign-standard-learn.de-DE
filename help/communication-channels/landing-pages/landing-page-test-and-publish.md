@@ -1,6 +1,6 @@
 ---
 title: Testen und Veröffentlichen einer Landingpage
-description: Erfahren Sie, wie Sie eine in Adobe Campaign Standard erstellte Landingpage testen und veröffentlichen können.
+description: Erfahren Sie, wie Sie eine in Adobe Campaign Standard erstellte Landingpage testen und veröffentlichen.
 feature: Landing Pages
 jira: KT-1813
 thumbnail: 24992.jpg
@@ -12,13 +12,13 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 30%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Testen und Veröffentlichen einer Landingpage
 
-In diesem Video wird erläutert, wie Sie eine Landingpage testen und veröffentlichen können.
+In diesem Video wird erläutert, wie Sie eine Landingpage testen und veröffentlichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}

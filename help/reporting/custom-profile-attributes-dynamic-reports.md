@@ -1,6 +1,6 @@
 ---
-title: Berichtsbasierte benutzerdefinierte Profilattribute erstellen
-description: Erfahren Sie, wie Sie einen Bericht erstellen, der auf benutzerdefinierten Profilattributen basiert.
+title: Erstellen von berichtsbasierten benutzerdefinierten Profilattributen
+description: Erfahren Sie, wie Sie einen Bericht basierend auf benutzerdefinierten Profilattributen erstellen.
 feature: Reporting
 jira: KT-1444
 thumbnail: 28204.jpg
@@ -12,19 +12,19 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 14%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
 # Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen
 
-Adobe Campaigns [!UICONTROL Dynamische Berichte] ist eine flexible Freiformumgebung, in der Sie Daten durch Einbeziehung benutzerdefinierter Profilattribute untersuchen können. Sie können damit Dimensionen, Metriken und Zeiträume in jeder beliebigen Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren.
+Adobe Campaign [!UICONTROL Dynamische Berichte] ist eine flexible Freiformumgebung, in der Sie Daten durch die Verwendung benutzerdefinierter Profilattribute untersuchen können. Damit können Sie Dimensionen, Metriken und Zeitbereiche in beliebiger Kombination mit unbegrenzten Aufschlüsselungen und Vergleichen kombinieren.
 
-In diesem Video wird erläutert, wie Sie einen Bericht erstellen, der auf benutzerdefinierten Profilattributen basiert.
+In diesem Video wird erläutert, wie Sie einen Bericht basierend auf benutzerdefinierten Profilattributen erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
-* [Über die Berichterstellung](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Über Reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

@@ -1,6 +1,6 @@
 ---
 title: Audience Destinations - Übersicht
-description: Erfahren Sie, wie Sie Adobe Experience Platform-Zielgruppen in Adobe Campaign Standard verwenden.
+description: Erfahren Sie, wie Sie Adobe Experience Platform-Zielgruppen in Adobe Campaign Standard verwenden
 feature: People Core Service Integration
 jira: KT-2755
 doc-type: feature video
@@ -14,8 +14,8 @@ hide: true
 hidefromtoc: true
 source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 6%
 >
 >Diese Funktion befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung. [!UICONTROL Audience Destinations] basiert auf Adobe Experience Platform und erfordert eine bestimmte Konfiguration.
 >
->Wenden Sie sich an den [!UICONTROL Adobe-Support] , wenn Sie diese Funktion implementieren möchten.
+>Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 >
 
-Mit dem Zielgruppen-Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus Adobe Experience Platform [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) erstellen.
+Mit dem Zielgruppen -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus den [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) von Adobe Experience Platform erstellen.
 
 Die folgenden Video-Tutorials führen Sie durch die verschiedenen Schritte:
 
 1. [Erstellen einer Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Aktivieren von Experience Platform-Zielgruppen in einem Marketing-Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [Zielgruppendimension eines Versands für eine Platform-Zielgruppe ändern](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+3. [Ändern der Zielgruppendimension eines Versands für eine Platform-Zielgruppe](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

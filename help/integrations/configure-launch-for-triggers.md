@@ -13,8 +13,8 @@ exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integration" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

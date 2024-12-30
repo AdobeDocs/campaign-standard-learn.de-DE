@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands
-description: Erfahren Sie, wie Sie die betrieblichen Komplexitäten beim Versand mehrsprachiger Kampagnen vereinfachen können.
+description: Erfahren Sie, wie Sie die betriebliche Komplexität mehrsprachiger Kampagnen reduzieren können.
 feature: Email, SMS
 jira: KT-1277
 thumbnail: 23252
@@ -12,15 +12,15 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Erstellen eines mehrsprachigen E-Mail- oder SMS-Versands
 
-Mit Adobe Campaign können Sie die betrieblichen Komplexitäten beim Versand mehrsprachiger Kampagnen vereinfachen. Sowohl E-Mail-Sendungen als auch SMS-Sendungen können mehrsprachig eingerichtet werden, sodass Sie die E-Mail oder SMS in der gewünschten Sprache eines Profils versenden können.
+Mit Adobe Campaign können Sie die betrieblichen Abläufe beim Versenden mehrsprachiger Kampagnen vereinfachen. Sowohl E-Mail- als auch SMS-Sendungen können mehrsprachig eingerichtet werden, sodass Sie die E-Mail oder SMS basierend auf der bevorzugten Sprache eines Profils senden können.
 
-In diesem Video wird erläutert, wie Sie einen mehrsprachigen Versand basierend auf einer Vorlage erstellen, der beispielsweise einem E-Mail-Newsletter entspricht. Der in den Videos dargestellte Ansatz gilt sowohl für E-Mail- als auch für SMS-Sendungen.
+In diesem Video wird anhand einer Vorlage für einen E-Mail-Newsletter erläutert, wie ein mehrsprachiger Versand erstellt wird. Der in den Videos demonstrierte Ansatz gilt sowohl für E-Mail- als auch für SMS-Sendungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
