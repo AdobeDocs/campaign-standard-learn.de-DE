@@ -23,4 +23,4 @@ Sie können Daten aus einer Datei erfassen, um sie zu verarbeiten und/oder in di
 
 In diesem Video wird erläutert, wie Sie die [!UICONTROL Daten-Management]-Aktivitäten in einem Workflow zum Importieren von Profildaten verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30222?learn=on&captions=ger){transcript=true}

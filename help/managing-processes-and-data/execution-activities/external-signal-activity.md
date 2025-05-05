@@ -24,4 +24,4 @@ Die [!UICONTROL Aktivität „Externes Signal] wird verwendet, um verschiedene P
 
 Erfahren Sie, wie Sie [!UICONTROL Aktivität „Externes Signal] konfigurieren, um Parameter** von einem externen System zu empfangen, einen Workflow mit externen Parametern anzupassen und eine Endaktivität zu konfigurieren, um einen Workflow mit den externen Parametern aufzurufen
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34304/?learn=on&captions=ger){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Adobe Campaign Standard eine mehrsprachige Push-Benachrichtigung erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37502?learn=on&captions=ger){transcript=true}

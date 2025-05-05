@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Verstehen Sie Nachrichtenprotokolle, Auftragsprotokolle und Versandlogs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445043/?learn=on&captions=ger){transcript=true}

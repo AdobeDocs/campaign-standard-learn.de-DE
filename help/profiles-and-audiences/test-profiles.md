@@ -23,4 +23,4 @@ Testprofile ermöglichen es, zusätzliche Empfänger anzusprechen, die nicht den
 
 In diesem Video wird erläutert, wie Sie Testprofile erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30205?learn=on&captions=ger){transcript=true}

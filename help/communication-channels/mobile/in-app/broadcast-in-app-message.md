@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Broadcast-Vorlage konfigurieren und verwenden, um alle Benutzer Ihrer Mobile App anzusprechen.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40916?learn=on&captions=ger){transcript=true}

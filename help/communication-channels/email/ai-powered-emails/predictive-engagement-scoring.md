@@ -28,4 +28,4 @@ Mit [!UICONTROL Journey-KI] kann [!DNL Adobe Campaign] Öffnungsraten, optimale 
 
 Erfahren Sie, wie man Interaktionsbewertungen auf der Ebene der einzelnen Profile anzeigt, Bewertungen verwendet, um interaktive Benutzer anzusprechen und ermüdete Benutzer zu meiden, und Typologieregeln zur Verwaltung von Kundenermüdung erstellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328452?learn=on&captions=ger){transcript=true}

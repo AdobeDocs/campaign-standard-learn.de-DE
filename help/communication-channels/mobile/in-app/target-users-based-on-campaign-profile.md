@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie bekannte Mobile-App-Benutzer mit Nachrichten ansprechen können, die mit CRM-Profilattributen personalisiert wurden.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35239?learn=on&captions=ger){transcript=true}

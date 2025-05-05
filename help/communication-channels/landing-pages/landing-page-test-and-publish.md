@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video wird erläutert, wie Sie eine Landingpage testen und veröffentlichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40090?learn=on&captions=ger){transcript=true}

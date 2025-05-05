@@ -21,4 +21,4 @@ ht-degree: 51%
 
 In diesem Video wird erläutert, wie Sie das responsive Design einer E-Mail anpassen, indem Sie alle Stiloptionen für die Anzeige auf Mobilgeräten einzeln bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39672?learn=on&captions=ger){transcript=true}

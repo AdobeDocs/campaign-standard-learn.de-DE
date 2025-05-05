@@ -27,6 +27,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie verschiedene Datentypen zwischen Adobe Campaign Standard und Adobe Experience Platform zuordnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34300?learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zur [Zuordnungsdefinition“ finden Sie in der Produktdokumentation ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=de)

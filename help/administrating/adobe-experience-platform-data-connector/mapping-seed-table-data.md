@@ -27,6 +27,6 @@ ht-degree: 9%
 
 Erfahren Sie, wie Sie Testdaten und Testprofile mit der Adobe Experience Platform zuordnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35549?learn=on&captions=ger){transcript=true}
 
 In der Produktdokumentation finden Sie weitere Informationen zur [Zuordnungsdefinition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=de) und zur [Zuordnungsaktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=de)

@@ -24,7 +24,7 @@ Um In-App-Nachrichten oder [!UICONTROL Push-Benachrichtigungen] mit Mobile SDK V
 
 Die folgenden Videos zeigen die erforderlichen Schritte zum Konfigurieren einer Mobile App in Experience Platform Launch:
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40902?learn=on&captions=ger){transcript=true}
 
 >[!NOTE]
 >

@@ -29,12 +29,12 @@ In den folgenden Videos werden die Schritte erläutert, die zum Konfigurieren vo
 
 ## Schritt 1: Ereignis erstellen und veröffentlichen
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34402?learn=on&captions=ger){transcript=true}
 
 ## Schritt 2: Hinzufügen einer Produktliste zu einer Transaktionsnachrichtenvorlage
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34403?learn=on&captions=ger){transcript=true}
 
 ## Schritt 3: Testen der Transaktionsnachricht
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34404?learn=on&captions=ger){transcript=true}

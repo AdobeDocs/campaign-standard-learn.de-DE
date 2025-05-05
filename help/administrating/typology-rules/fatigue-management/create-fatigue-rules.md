@@ -22,7 +22,7 @@ ht-degree: 24%
 [!UICONTROL Ermüdungsregeln] ermöglichen es Marketing-Experten, globale Cross-Channel-Geschäftsregeln festzulegen, die zu oft angesprochene Profile automatisch von Kampagnen ausschließen.
 Um [!UICONTROL Ermüdungsregeln] zu erstellen, müssen Sie eine maximale Anzahl von Nachrichten pro Profil definieren und einen Zeitraum auswählen, für den die Regel gelten soll. Bei der Versandvorbereitung werden Profile vom Versand ausgeschlossen, wenn sie bereits eine bestimmte Anzahl an Nachrichten erhalten haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33098?learn=on&captions=ger){transcript=true}
 
 *So erstellen Sie eine [!UICONTROL Ermüdungsregel] (04:49 Min.)*
 

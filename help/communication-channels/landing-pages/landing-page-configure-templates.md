@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem Video wird erläutert, wie Sie [!UICONTROL Landingpage]-Vorlagen konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30224/?learn=on&captions=ger){transcript=true}

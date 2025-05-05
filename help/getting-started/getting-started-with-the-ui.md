@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video erhalten Sie einen Überblick über die Benutzeroberfläche von Adobe Campaign Standard und über die Navigation zu den wichtigsten Funktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/18469?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39549?learn=on&captions=ger){transcript=true}

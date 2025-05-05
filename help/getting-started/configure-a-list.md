@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video wird erläutert, wie Sie die angezeigten Spalten, die Reihenfolge und die Sortierreihenfolge einer Listenansicht in Adobe Campaign Standard ändern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30203/?learn=on&captions=ger){transcript=true}

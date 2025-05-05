@@ -25,4 +25,4 @@ Mit [!DNL Adobe Campaign Standard] können Sie eine [!UICONTROL Kontrollgruppe] 
 
 Erfahren Sie, wie Sie eine [!UICONTROL Kontrollgruppe] für Ihren [!UICONTROL Versand] definieren und wie Sie die der [!UICONTROL Kontrollgruppe] zugewiesenen Profile extrahieren, nachdem der [!UICONTROL Versand] ausgeführt wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328540?learn=on&captions=ger){transcript=true}

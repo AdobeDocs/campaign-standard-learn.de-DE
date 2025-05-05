@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Beim Einrichten von Adobe Campaign Standard für die Verarbeitung von Datenschutzanfragen müssen Sie sicherstellen, dass alle benutzerdefinierten Daten, die mit einem Profil verknüpft sind, gelöscht werden, wenn das Profil gelöscht wird. In diesem Video wird beschrieben, wie Sie Ihre benutzerdefinierten Ressourcen ändern, um diese Anforderung zu erfüllen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329497?learn=on&captions=ger){transcript=true}
 
 >[!NOTE]
 >

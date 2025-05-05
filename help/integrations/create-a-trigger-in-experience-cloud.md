@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Trigger in Experience Cloud konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446147?learn=on&captions=ger){transcript=true}

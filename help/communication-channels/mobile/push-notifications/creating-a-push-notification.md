@@ -29,4 +29,4 @@ Mit Adobe Campaign können Sie personalisierte und segmentierte [!UICONTROL Push
 
 In diesem Video wird beschrieben, wie Sie eine [!DNL push notification to app subscribers] senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35472?learn=on&captions=ger){transcript=true}

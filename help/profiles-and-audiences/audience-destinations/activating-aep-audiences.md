@@ -29,7 +29,7 @@ ht-degree: 0%
 
 In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows mithilfe der Aktivität [!UICONTROL Zielgruppe lesen] aktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34303?learn=on&captions=ger){transcript=true}
 
 *Aktivieren einer Adobe Experience Platform-Zielgruppe in einem Workflow (02:37 Min.)*
 

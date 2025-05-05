@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video erhalten Sie einen Überblick über die Berichtsfunktionen von Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32982?learn=on&captions=ger){transcript=true}

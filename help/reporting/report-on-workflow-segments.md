@@ -23,6 +23,6 @@ Nachdem Sie einen Workflow erstellt und Ihre Population in verschiedene Zielgrup
 
 Erfahren Sie, wie Sie Segmente in Ihrem Workflow definieren und mit dynamischen Berichten verknüpfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33071?learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=de)

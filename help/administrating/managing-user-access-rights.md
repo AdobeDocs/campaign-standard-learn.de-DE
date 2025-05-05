@@ -21,4 +21,4 @@ ht-degree: 18%
 
 In diesem Video erfahren Sie, wie Sie die Berechtigungen definieren und verwalten, die den verschiedenen Benutzenden in Adobe Campaign zugewiesen sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35933?learn=on&captions=ger){transcript=true}

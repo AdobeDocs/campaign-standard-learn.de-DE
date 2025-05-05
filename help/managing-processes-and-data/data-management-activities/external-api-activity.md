@@ -30,7 +30,7 @@ Beispiele für Anwendungsfälle sind:
 
 In diesem Video wird die Verwendung der [!UICONTROL Aktivität &quot;Externe API&quot;] veranschaulicht.
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33054/?learn=on&captions=ger){transcript=true}
 
 *[!UICONTROL Aktivität &quot;Externe API&quot;] (06:48 min)*
 

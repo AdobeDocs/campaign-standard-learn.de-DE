@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ein Trigger-Ereignis in Campaign Standard erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446418?learn=on&captions=ger){transcript=true}

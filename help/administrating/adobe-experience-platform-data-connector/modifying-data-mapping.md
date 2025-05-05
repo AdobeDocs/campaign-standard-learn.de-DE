@@ -27,7 +27,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Status überprüfen und die Datenzuordnung ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38492?learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

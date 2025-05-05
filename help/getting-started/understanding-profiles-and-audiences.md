@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video werden das Konzept und das Erstellen von Profilen und Audiences erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38374?learn=on&captions=ger){transcript=true}

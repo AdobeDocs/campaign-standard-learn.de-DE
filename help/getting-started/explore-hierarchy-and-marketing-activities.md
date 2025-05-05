@@ -21,5 +21,5 @@ ht-degree: 0%
 
 In diesem Video werden die Hierarchie der Programme und Kampagnen, das Erstellen eines Marketing-Programms und das Erstellen einer Marketing-Kampagne in einem Programm erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38383?learn=on&captions=ger){transcript=true}
 
