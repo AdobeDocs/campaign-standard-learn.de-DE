@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie eine [!UICONTROL Push-Benachrichtigung] in Adobe Campaign 
 
 Mit Adobe Campaign können Sie personalisierte und segmentierte [!UICONTROL Push-Benachrichtigungen] an iOS- und Android™-Mobilgeräte senden. Sie haben zwei Möglichkeiten:
 
-* **[!UICONTROL Push-Benachrichtigung an Campaign-Profile senden]**: Ermöglicht es Ihnen, die Adobe Campaign CRM-Profile anzusprechen, die sich für den Erhalt von [!UICONTROL Push-Benachrichtigungen“ ] haben, sich für Ihre Mobile App angemeldet haben. Sie können Personalisierungsfelder in Ihre [!UICONTROL Push-Benachrichtigung] einfügen, z. B. den Vornamen des Empfängers.
+* **[!UICONTROL Push-Benachrichtigung an Campaign-Profile senden]**: Ermöglicht es Ihnen, die Adobe Campaign CRM-Profile anzusprechen, die sich für den Erhalt von [!UICONTROL Push-Benachrichtigungen“ &#x200B;] haben, sich für Ihre Mobile App angemeldet haben. Sie können Personalisierungsfelder in Ihre [!UICONTROL Push-Benachrichtigung] einfügen, z. B. den Vornamen des Empfängers.
 
 * **[!UICONTROL Push-Benachrichtigung an App-Abonnenten senden]**: Ermöglicht das Senden einer [!UICONTROL Push-Benachrichtigung] an alle bekannten und anonymen Mobile-App-Benutzer, die sich für den Erhalt von Benachrichtigungen von Ihrer Mobile App entschieden haben. Sie können diese Nachrichten mit Daten personalisieren, die von Ihrer Mobile App stammen.
 

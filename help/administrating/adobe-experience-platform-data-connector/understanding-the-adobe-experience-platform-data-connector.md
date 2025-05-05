@@ -39,9 +39,9 @@ Adobe Experience Platform [!UICONTROL Data Connector] ist für Dateningenieure g
 
 >[!NOTE]
 >
->Die standardmäßige Übertragung von (Abonnement[!UICONTROL Ereignissen wird ] unterstützt. Um [!UICONTROL Abonnementereignisse] zu übertragen, können Sie das entsprechende XDM und den entsprechenden Datensatz in Adobe Experience Platform erstellen und dann eine benutzerdefinierte Datenzuordnung für diese Daten konfigurieren.
+>Die standardmäßige Übertragung von (Abonnement[!UICONTROL Ereignissen wird &#x200B;] unterstützt. Um [!UICONTROL Abonnementereignisse] zu übertragen, können Sie das entsprechende XDM und den entsprechenden Datensatz in Adobe Experience Platform erstellen und dann eine benutzerdefinierte Datenzuordnung für diese Daten konfigurieren.
 >
->Vorhandene [!UICONTROL Erlebnisereignisse] können nicht in Adobe Experience Platform aufgenommen werden, aber [!UICONTROL  generierte Erlebnisereignisse ] an Adobe Experience Platform gestreamt.
+>Vorhandene [!UICONTROL Erlebnisereignisse] können nicht in Adobe Experience Platform aufgenommen werden, aber [!UICONTROL &#x200B; generierte Erlebnisereignisse &#x200B;] an Adobe Experience Platform gestreamt.
 
 ## Wichtige Schritte zum Durchführen einer Datenzuordnung
 

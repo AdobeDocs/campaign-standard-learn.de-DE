@@ -17,7 +17,7 @@ ht-degree: 12%
 
 ---
 
-# Erstellen [!UICONTROL  In-App]Versands innerhalb eines Workflows
+# Erstellen [!UICONTROL &#x200B; In-App]Versands innerhalb eines Workflows
 
 Erfahren Sie, wie Sie mit der In-App-Versandaktivität das Senden einer In-App-Nachricht an eine in einem Workflow berechnete Zielgruppe automatisieren können.
 

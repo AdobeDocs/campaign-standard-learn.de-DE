@@ -59,7 +59,7 @@ Bei erfolgreicher Integration Ihrer App mit Firebase sollten Sie eine Nachricht 
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Stellen Sie sicher, dass Ihr Projekt in der  [!DNL Firebase ] aufgeführt ist](https://console.firebase.google.com/)
+[Stellen Sie sicher, dass Ihr Projekt in der  [!DNL Firebase &#x200B;] aufgeführt ist](https://console.firebase.google.com/)
 
 ## Einstellungen [!UICONTROL Push-Kanal] konfigurieren
 

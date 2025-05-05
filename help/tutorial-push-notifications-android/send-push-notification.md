@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Teil 6: Senden [!UICONTROL Push-Benachrichtigung], um Ihre Arbeit zu testen
 
-Jetzt müssen wir eine „Push-Benachrichtigung“ [!UICONTROL  Adobe Campaign erstellen ] senden. Führen Sie die folgenden Schritte aus, um eine einfache Push-Benachrichtigung zu Testzwecken zu erstellen.
+Jetzt müssen wir eine „Push-Benachrichtigung“ [!UICONTROL &#x200B; Adobe Campaign erstellen &#x200B;] senden. Führen Sie die folgenden Schritte aus, um eine einfache Push-Benachrichtigung zu Testzwecken zu erstellen.
 
 * Anmelden bei der Adobe Campaign Standard-Instanz
 * Klicken Sie **[!UICONTROL Marketing-Aktivitäten]->[!UICONTROL Erstellen]->[!UICONTROL Push-Benachrichtigung]**
