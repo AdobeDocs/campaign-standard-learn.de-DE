@@ -27,4 +27,4 @@ Erfahren Sie, wie Sie einen Bericht erstellen können.
 
 ## Zusätzliche Ressourcen
 
-* [Über Reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [Über Reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=de)
