@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie verschiedene Datentypen zwischen Adobe Campaign Standard u
 
 >[!VIDEO](https://video.tv.adobe.com/v/34300?learn=on&captions=ger){transcript=true}
 
-Weitere Informationen zur [Zuordnungsdefinition“ finden Sie in der Produktdokumentation ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=de)
+Weitere Informationen zur [Zuordnungsdefinition“ finden Sie in der Produktdokumentation &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=de)

@@ -31,7 +31,7 @@ In diesem Video erhalten Sie einen Überblick über die Funktionalität und Verw
 Die folgenden detaillierten Tutorials sind verfügbar:
 
 * [Erste Schritte mit E-Mail-Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
-* [Inhaltsvorlagen ](/help/designing-content/email-designer/email-content-templates.md)
+* [Inhaltsvorlagen &#x200B;](/help/designing-content/email-designer/email-content-templates.md)
 * [Konfigurieren der Ansicht auf einem Mobilgerät](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Ansehen der E-Mail in der Vorschau](/help/designing-content/email-designer/preview-your-email.md)
 * [Verwenden existierender Inhalte](/help/designing-content/email-designer/working-with-existing-content.md)

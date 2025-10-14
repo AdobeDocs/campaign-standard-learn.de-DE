@@ -33,4 +33,4 @@ In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Aud
 
 *Aktivieren einer Adobe Experience Platform-Zielgruppe in einem Workflow (02:37 Min.)*
 
-Informationen zur Aufnahme von Adobe Experience Platform-Zielgruppen in [ finden Sie in der Produktdokumentation ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=de)
+Informationen zur Aufnahme von Adobe Experience Platform-Zielgruppen in [&#x200B; finden Sie in der Produktdokumentation &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=de)

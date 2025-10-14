@@ -25,4 +25,4 @@ Erfahren Sie, wie Sie einen A/B-Test konfigurieren und senden, um die Betreffzei
 
 >[!VIDEO](https://video.tv.adobe.com/v/38300?learn=on&captions=ger){transcript=true}
 
-Weitere Informationen [ Testen des Inhalts oder ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=de) Absenders finden Sie in der (Produktdokumentation).
+Weitere Informationen [&#x200B; Testen des Inhalts oder &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=de) Absenders finden Sie in der (Produktdokumentation).

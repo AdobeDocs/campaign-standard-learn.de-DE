@@ -81,7 +81,7 @@ Es gibt zwei Möglichkeiten, diesen Fehler zu beheben:
 
 2. Verwenden Sie die JOIN-Ausschlussmethode, um das Feld auszuwählen, auf dessen Grundlage Sie die Datensätze ausschließen möchten.
 
-![Datensatzfehler im allgemeinen Feld - Lösung ](/help/assets/kt-13256/dataset-error-solution.png)
+![Datensatzfehler im allgemeinen Feld - Lösung &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## Fehler beim Löschen des Feldnamens
 
@@ -114,7 +114,7 @@ Sie können diesen Fehler auf drei Arten beheben:
 **Ursache:**
 Dies ist ein häufiger Fehler in komplizierten Workflows, bei denen es um Anreicherung oder andere Aktivitäten geht. Dies bedeutet wahrscheinlich, dass einige der Aktivitäts-Workflows bei mehreren Änderungen am Workflow nicht korrekt gespeichert werden.
 
-![Fehler beim Löschen der temporären Tabelle ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Fehler beim Löschen der temporären Tabelle &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Lösung:**
 Es gibt viele Möglichkeiten, wie dieser Fehler auftreten kann, sodass es keine einfache Lösung gibt. Wenn es sich um einen einfachen Workflow handelt, ist es besser, die Aktivität neu zu konfigurieren. In einem komplizierten Workflow ist es besser, die Workflow-Aktivitäten in einen neuen Workflow zu kopieren, zu speichern und erneut auszuführen.
