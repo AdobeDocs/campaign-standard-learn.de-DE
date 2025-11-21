@@ -5,8 +5,8 @@ breadcrumb-title: Campaign Standard-Tutorials
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '517'
+ht-degree: 92%
 
 ---
 
@@ -20,24 +20,24 @@ ht-degree: 0%
    + [Listen konfigurieren](/help/getting-started/configure-a-list.md)
    + [Hierarchie und Marketing-Aktivitäten](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Verwalten von Kampagnen](/help/getting-started/managing-campaigns.md)
-   + [Grundlegendes zu Profilen und Audiences](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Grundlegendes zu Profilen und Zielgruppen](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Erstellen einer E-Mail](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=de)
    + [Erstellen eines Workflows](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=de)
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Wachsen mit Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
-+ Profile und Audiences {#profiles-and-audiences}
-   + [Erstellen von Profilen und Audiences – Übersicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
++ Profile und Zielgruppen  {#profiles-and-audiences}
+   + [Erstellen von Profilen und Zielgruppen – Übersicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Erstellen eines Profils](/help/profiles-and-audiences/creating-a-profile.md)
    + [Erstellen eines Testprofils](/help/profiles-and-audiences/test-profiles.md)
    + [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Verwalten von Services und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Audience Destinations (BETAVERSION){#audience-destinations}
+   + Audience Destinations (BETA){#audience-destinations}
       + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Erstellen einer Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Aktivieren von Adobe Experience Platform-Audiences in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Erstellen einer Zielgruppe mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Aktivieren von Adobe Experience Platform-Zielgruppen in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Ändern der Zielgruppendimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-+ Kommunikationskanäle{#communication-channels}
++ Kommunikationskanäle {#communication-channels}
    + E-Mail {#email}
       + [Erstellen einer E-Mail](/help/communication-channels/email/create-email-from-homepage.md)
       + [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
@@ -72,8 +72,8 @@ ht-degree: 0%
       + [Erstellen und Bearbeiten einer Landingpage](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testen und Veröffentlichen einer Landingpage](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Konfigurieren einer Landingpage-Vorlage](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Erstellen und Personalisieren von Inhalten {#designing-content}
-   + E-Mail-Designer{#email-designer}
++ Inhalt erstellen und personalisieren {#designing-content}
+   + Email Designer{#email-designer}
       + [Übersicht](/help/designing-content/email-designer/email-designer-overview.md)
       + [Erste Schritte mit E-Mail-Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Einführung in E-Mail-Inhaltsvorlagen](/help/designing-content/email-designer/email-content-templates.md)
@@ -96,7 +96,7 @@ ht-degree: 0%
    + [Überwachen eines Versands](/help/reporting/monitor-a-delivery.md)
 + Integration mit anderen Lösungen {#integrations}
    + [Die Wirkung von Sendungen in Adobe Analytics verfolgen](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
+   + Trigger für Transaktionsnachrichten verwenden {#triggers}
       + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
       + [Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
@@ -115,7 +115,7 @@ ht-degree: 0%
       + [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [Überprüfen des Status von Datenaufnahmevorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregeln{#typology-rules}
-      + Ermüdungsverwaltung {#fatigue-management}
+      + Ermüdungsverwaltung{#fatigue-management}
          + [Erstellen von Ermüdungsregeln](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Datenschutz {#privacy}
    + [Übersicht](/help/privacy/privacy-overview.md)
@@ -124,7 +124,7 @@ ht-degree: 0%
    + [Manuelles Erstellen und Verfolgen von Datenschutzanfragen](/help/privacy/create-and-track-privacy-requests.md)
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
 + [Fehlerbehebung bei Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=de)
-+ Strategie und Vordenkerposition{#strategy}
++ Strategie und Vordenkerrolle{#strategy}
    + [Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
    + [Fehlerbehebung für Marketing-Fachleute](/help/strategy/troubleshooting-for-marketers.md)
    + [Maximieren des E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten](/help/strategy/campaign-maximize-email-best-practices.md)
