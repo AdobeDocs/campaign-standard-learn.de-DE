@@ -23,4 +23,4 @@ Um Datenschutzzugriffs- und Löschanfragen gemäß der DSGVO oder des CCPA erste
 
 Erfahren Sie, wie Sie Namespaces für Datenschutzanfragen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29416?captions=ger&learn=on){transcript=true}

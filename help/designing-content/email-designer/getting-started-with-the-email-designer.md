@@ -21,4 +21,4 @@ ht-degree: 100%
 
 In diesem Video werden die allgemeinen Funktionen von [!UICONTROL E-Mail-Designer] und das Entwerfen einer neuen E-Mail erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327696?captions=ger&learn=on){transcript=true}

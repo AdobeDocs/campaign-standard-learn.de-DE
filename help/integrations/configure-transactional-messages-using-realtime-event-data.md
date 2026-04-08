@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten von Triggern konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450211?captions=ger&learn=on){transcript=true}

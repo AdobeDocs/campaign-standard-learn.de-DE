@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in Campaign Standard eine entschlüsselte Ereignis-ID und Versand-ID abrufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437896?captions=ger&learn=on){transcript=true}
