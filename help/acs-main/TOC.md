@@ -4,9 +4,9 @@ user-guide-description: Videos und Tutorials zu Adobe Campaign Standard.
 breadcrumb-title: Campaign Standard-Tutorials
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '604'
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 92%
    + [Einführung in das Reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobile Marketing mit Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Wachsen mit Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
-+ Profile und Zielgruppen  {#profiles-and-audiences}
++ Profile und Zielgruppen {#profiles-and-audiences}
    + [Erstellen von Profilen und Zielgruppen – Übersicht](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Erstellen eines Profils](/help/profiles-and-audiences/creating-a-profile.md)
    + [Erstellen eines Testprofils](/help/profiles-and-audiences/test-profiles.md)
@@ -82,28 +82,28 @@ ht-degree: 92%
       + [Arbeiten mit vorhandenen Inhalten](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Erstellen von Inhalten mit Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Konfigurieren von Produktlisten in Transaktions-E-Mails](/help/designing-content/product-listings-in-transactional-email.md)
-+ Prozess- und Daten-Management {#managing-processes-and-data}
++ Prozess und Daten-Management {#managing-processes-and-data}
    + [Erstellen eines Workflows](/help/managing-processes-and-data/creating-a-workflow.md)
    + Ausführungsaktivitäten {#execution-activities}
       + [Aktivität &quot;Externes Signal&quot;](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
-   + Datenverwaltungsaktivitäten {#data-management-activities}
+   + Daten-Management-Aktivitäten {#data-management-activities}
       + [Aktivität &quot;Externe API&quot;](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Berichte und Überwachung {#reporting}
    + [Berichte](/help/getting-started/exploring-reports.md)
    + [Erstellen eines dynamischen Berichts](/help/reporting/creating-a-dynamic-report.md)
    + [Erstellen eines Berichts auf der Basis von benutzerdefinierten Profilattributen](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Erstellen eines Berichts auf der Basis von Workflow-Segmenten](/help/reporting/report-on-workflow-segments.md)
-   + [Überwachen eines Versands](/help/reporting/monitor-a-delivery.md)
+   + [Überwachen von Sendungen](/help/reporting/monitor-a-delivery.md)
 + Integration mit anderen Lösungen {#integrations}
    + [Die Wirkung von Sendungen in Adobe Analytics verfolgen](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Trigger für Transaktionsnachrichten verwenden {#triggers}
+   + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
       + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
       + [Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Erstellen eines Trigger-Ereignisses in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Konfigurieren von Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Konfigurieren von Microsoft](/help/integrations/configure-dynamics-365.md)
-+ Verwalten {#administrating}
+   + [Konfigurieren von Microsoft® Dynamics 365 für die Integration mit Campaign Standard](/help/integrations/configure-dynamics-365.md)
++ Verwaltung {#administrating}
    + [Verwalten von Benutzerzugriffsrechten](/help/administrating/managing-user-access-rights.md)
    + [Erstellen von benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=de)
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target="_blank"}
@@ -113,9 +113,9 @@ ht-degree: 92%
       + [Zuordnen von Erlebnisereignissen](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Zuordnen von Daten in Testadressen-Tabellen](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Ändern der Datenzuordnung](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Überprüfen des Status von Datenaufnahmevorgängen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Überprüfen des Status von Datenaufnahmeaufträgen](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologieregeln{#typology-rules}
-      + Ermüdungsverwaltung{#fatigue-management}
+      + Ermüdungs-Management{#fatigue-management}
          + [Erstellen von Ermüdungsregeln](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Datenschutz {#privacy}
    + [Übersicht](/help/privacy/privacy-overview.md)
@@ -123,7 +123,7 @@ ht-degree: 92%
    + [Ändern von benutzerdefinierten Ressourcen für Datenschutzanfragen](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Manuelles Erstellen und Verfolgen von Datenschutzanfragen](/help/privacy/create-and-track-privacy-requests.md)
    + [Ausführen von Datenschutzanfragen](/help/privacy/execute-privacy-requests.md)
-+ [Fehlerbehebung bei Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=de)
++ [Fehlerbehebung in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=de)
 + Strategie und Vordenkerrolle{#strategy}
    + [Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
    + [Fehlerbehebung für Marketing-Fachleute](/help/strategy/troubleshooting-for-marketers.md)

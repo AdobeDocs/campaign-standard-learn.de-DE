@@ -11,9 +11,9 @@ exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '46'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video werden die allgemeinen Funktionen von [!UICONTROL E-Mail-Designer] und das Entwerfen einer neuen E-Mail erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/327696?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}

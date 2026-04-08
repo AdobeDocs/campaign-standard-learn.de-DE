@@ -7,9 +7,9 @@ level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1497'
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Von November bis Anfang Januar nimmt das Volumen der gesendeten Marketing-E-Mail
 
 Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kennen:
 
-### 1. Vorbereiten des Inhaltskalenders
+### &#x200B;1. Vorbereiten des Inhaltskalenders
 
 * ISPs verfolgen Ihre durchschnittlichen Versandzahlen von einer IP-Adresse. Verteilen Sie die Menge also so gut wie möglich, um zu verhindern, dass eine Warnung erstellt wird und Ihre Nachrichten im Spam-Ordner landen.
 * Richten Sie Ihren Inhaltskalender im Voraus ein und bereiten Sie Ihre Inhaltsautorinnen und -autoren auf eine Steigerung des Versandvolumens vor.
@@ -53,14 +53,14 @@ Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kenn
    * Planen Sie strategisch für Tageszeiten, in denen Personen mit E-Mails bombardiert werden (z. B. zwischen 8 und 10 Uhr morgens).
    * Wenn Sie den Versand nicht auf mehrere Tage verteilen können, versuchen Sie es mit mehreren Stunden.
 
-### 2. Infrastruktur
+### &#x200B;2. Infrastruktur
 
 * Stellen Sie sicher, dass die E-Mail-Authentifizierung richtig eingerichtet ist, indem Sie einen Test mit Ihrer eigenen E-Mail-Adresse durchführen.
 * Machen Sie sich mit der Bounce-Handhabung vertraut und prüfen Sie die Performance Ihrer ISPs.
    * Gibt es potenzielle Probleme oder Sperrungen bei einem bestimmten ISP?
    * Seien Sie sich der Herausforderungen bewusst, bevor Sie mit dem Versand großer E-Mail-Mengen beginnen, um unangenehme Überraschungen und ungenügende Kampagnen-Performance zu verhindern.
 
-### 3. Daten
+### &#x200B;3. Daten
 
 * Identifizieren Sie alle Akquiseverfahren, insbesondere Ihre Anmeldeprozesse und DSGVO-Anforderungen.
 * Seien Sie bei Abonnentinnen und Abonnenten so transparent wie möglich, wenn Sie sie nach ihrer E-Mail-Adresse fragen:
@@ -71,7 +71,7 @@ Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kenn
    * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnentinnen und Abonnenten unvorbereitet sind und sich gleich wieder abmelden bzw. Nachrichten als Spam markieren.
    * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Performance. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Performance oder eine schlechte Datenerfassung ist.
 
-### 4. E-Mail-Verwaltung
+### &#x200B;4. E-Mail-Verwaltung
 
 * Segmentieren Sie Ihre Abonnentinnen und Abonnenten und überwachen Sie, wo im Lebenszyklus Ihrer Marke sie sich befinden.
 * Nutzen Sie Strategien zur Personalisierung von Inhalten, um die Relevanz Ihrer E-Mails zu erhöhen.
@@ -90,7 +90,7 @@ Leider werden es Ihnen die meisten Abonnentinnen und Abonnenten, die an Ermüdun
 
 In dem Zusammenhang gibt es einige Best Practices, mit denen Sie Abonnentinnen und Abonnenten an sich binden und vorhersagen können, welche Art von Content sie erhalten möchten. So lassen sich Abmeldungen und inaktive Zielgruppen vermeiden.
 
-### 1. Erstellen einer Strategie für E-Mail-Häufigkeit.
+### &#x200B;1. Erstellen einer Strategie für E-Mail-Häufigkeit
 
 Leider gibt es keine richtige Antwort auf die Frage, wie viele E-Mails pro Woche in Ordnung sind. Berücksichtigen Sie beim Ermitteln der richtigen Häufigkeit folgende Aspekte:
 
@@ -102,7 +102,7 @@ Leider gibt es keine richtige Antwort auf die Frage, wie viele E-Mails pro Woche
 * Welche Kapazität haben Kundinnen und Kunden hinsichtlich des Erhalts von Inhalten Ihrer Marke?
 * Wie sehen die saisonalen Präferenzen Ihrer Kundinnen und Kunden aus?
 
-### 2. Identifizieren des Status Ihrer Abonnentinnen und Abonnenten
+### &#x200B;2. Identifizieren des Status Ihrer Abonnentinnen und Abonnenten
 
 Der Status Ihrer Abonnentinnen und Abonnenten (aktiv, abgelaufen oder inaktiv) hängt davon ab, wie oft Sie ihnen Inhalte senden. Davon ausgehend können Sie ermitteln, wie stark sie interagieren.
 
@@ -114,7 +114,7 @@ Wenn Sie Kundinnen und Kunden beispielsweise täglich eine E-Mail senden, sollte
 
 Bei abgelaufenen und inaktiven Abonnements sollten Sie sich das Datum ansehen, an dem sich die Benutzerinnen und Benutzer angemeldet haben, um den Grad der Interaktion zu ermitteln. Haben sie sich beispielsweise am Tag eines Wettbewerbs bzw. einer anderen Marketing-Kampagne angemeldet? Haben sie sich über ein Website-Popup mit einem Rabattangebot angemeldet? Nachdem Sie abgelaufene und inaktive Abonnements identifiziert haben, sollten Sie Ihre Strategie ändern, um die Zufriedenheit der Benutzerinnen und Benutzer zu verbessern und sie wieder in aktive Abonnentinnen und Abonnenten zu verwandeln.
 
-### 3. Implementieren von Strategien zur Rückgewinnung
+### &#x200B;3. Implementieren von Strategien zur Rückgewinnung
 
 Schlüsseln Sie den Prozess in zwei Schwerpunktbereiche auf: a) E-Mail-Versandmuster und b) kreative Inhalte der E-Mails selbst. Im Folgenden werden die beiden Bereiche genauer beschrieben:
 

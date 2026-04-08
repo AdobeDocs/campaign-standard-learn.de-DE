@@ -10,15 +10,15 @@ team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '198'
+ht-degree: 100%
 
 ---
 
 # Erstellen benutzerdefinierter Ressourcen – Einführung
 
-[!DNL Adobe Campaign] verfügt über ein vordefiniertes Datenmodell, in dem die Daten durch verschiedene Ressourcen definiert werden. [!DNL Campaign] ermöglicht es dem Benutzer, vorhandene Ressourcen zu erweitern oder neue zu erstellen.
+[!DNL Adobe Campaign] verfügt über ein vordefiniertes Datenmodell, in dem die Daten durch verschiedene Ressourcen definiert werden. [!DNL Campaign] ermöglicht es Benutzenden, vorhandene Ressourcen zu erweitern oder neue zu erstellen.
 
 Dieses mehrteilige Tutorial führt Sie durch die Schritte, die zum Erstellen und Verknüpfen benutzerdefinierter Ressourcen erforderlich sind.
 Sie erfahren, wie man:

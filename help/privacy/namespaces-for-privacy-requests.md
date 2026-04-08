@@ -11,7 +11,7 @@ level: Experienced
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ Um Datenschutzzugriffs- und Löschanfragen gemäß der DSGVO oder des CCPA erste
 
 Erfahren Sie, wie Sie Namespaces für Datenschutzanfragen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/29416?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}

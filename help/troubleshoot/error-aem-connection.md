@@ -7,14 +7,14 @@ type: Troubleshooting
 jira: KT-8393
 exl-id: 85632ab3-3d07-4737-84e9-d265a769c37d
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '46'
+ht-degree: 100%
 
 ---
 
 # Fehler beim Herstellen der Verbindung zu Experience Manager
 
-Erfahren Sie, wie Sie beim Herstellen einer Verbindung zwischen Campaign Standard und Experience Manager den Fehler &quot;GetAEMContentList&quot; des Services &quot;nms:delivery&quot; beheben.
+Erfahren Sie, wie Sie beim Herstellen einer Verbindung zwischen Campaign Standard und Experience Manager den Fehler „GetAEMContentList“ des Service „nms::delivery“ beheben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436886?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){transcript=true}
