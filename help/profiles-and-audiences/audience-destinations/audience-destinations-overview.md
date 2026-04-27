@@ -12,10 +12,10 @@ level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 
@@ -30,10 +30,10 @@ ht-degree: 0%
 >Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 >
 
-Mit dem Zielgruppen -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus den [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=de) von Adobe Experience Platform erstellen.
+Mit dem Zielgruppen -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus den [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) von Adobe Experience Platform erstellen.
 
 Die folgenden Video-Tutorials führen Sie durch die verschiedenen Schritte:
 
-1. [Erstellen einer Audience mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [Erstellen einer Zielgruppe mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Aktivieren von Experience Platform-Zielgruppen in einem Marketing-Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Ändern der Zielgruppendimension eines Versands für eine Platform-Zielgruppe](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

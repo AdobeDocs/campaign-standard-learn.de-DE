@@ -6,12 +6,12 @@ version: Campaign Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-standard-learn.de-DE
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
-workflow-type: ht
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 

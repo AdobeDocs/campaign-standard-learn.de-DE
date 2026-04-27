@@ -1,6 +1,6 @@
 ---
 title: Ändern der Zielgruppendimension
-description: In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für eine Platform-Zielgruppe außerhalb der primären Profiltabelle in Adobe Campaign Standard ändern.
+description: This video explains how to change the targeting dimension of a delivery for a Platform Audience outside of the primary profile table in Adobe Campaign Standard.
 feature: People Core Service Integration
 jira: KT-3739
 thumbnail: 30151.jpg
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 3%
 
 ---
 
-# Ändern der Zielgruppendimension [!UICONTROL Platform-Zielgruppe]
+# Change the targeting dimension [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
@@ -27,6 +27,6 @@ ht-degree: 0%
 >
 >Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 
-In diesem Video wird erläutert, wie Sie die Zielgruppendimension eines Versands für eine [!UICONTROL Platform-Zielgruppe] außerhalb der primären Profiltabelle in Adobe Campaign Standard ändern.
+This video explains how to change the targeting dimension of a delivery for a [!UICONTROL Platform Audience] outside of the primary profile table in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/33267?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

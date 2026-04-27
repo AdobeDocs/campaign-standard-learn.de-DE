@@ -1,6 +1,6 @@
 ---
 title: Testversand, Vorbereiten und Senden einer E-Mail
-description: 'Erfahren Sie, wie Sie eine Test-E-Mail senden, den E-Mail-Versand vorbereiten und dann senden. '
+description: 'Learn how to send a test email, prepare, and then send the email delivery. '
 feature: Email, Test Profiles
 jira: KT-1812
 thumbnail: 24013.jpg
@@ -12,7 +12,7 @@ role: User
 level: Beginner
 hidefromtoc: true
 hide: true
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 31%
@@ -21,6 +21,6 @@ ht-degree: 31%
 
 # Testversand, Vorbereiten und Senden einer E-Mail
 
-In diesem Video wird beschrieben, wie Sie eine Test-E-Mail senden und dann einen E-Mail-Versand in Adobe Campaign Standard (ACS) vorbereiten und durchführen.
+This video explains how to send a test email, prepare and then send an email delivery in Adobe Campaign Standard (ACS).
 
->[!VIDEO](https://video.tv.adobe.com/v/30088?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
