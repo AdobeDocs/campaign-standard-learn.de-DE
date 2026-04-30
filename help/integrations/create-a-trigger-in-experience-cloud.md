@@ -9,13 +9,12 @@ doc-type: article
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: true
 exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
 badgeIntegration: label="Integration" type="positive"
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '31'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +22,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Trigger in Experience Cloud konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446147?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446147?captions=ger&learn=on){transcript=true}
