@@ -1,10 +1,10 @@
 ---
-source-git-commit: 52676e3625c3c39b525992edf1ebbb5b2249b9b9
-workflow-type: ht
-source-wordcount: '10'
-ht-degree: 100%
+source-git-commit: 4d65cd82abafa3510559c387dc9ab0af7928dfc3
+workflow-type: tm+mt
+source-wordcount: '7'
+ht-degree: 0%
 
 ---
-# campaign-standard-learn.en
+# ARCHIVIERT
 
-Partizipative Tutorials und Informationsmaterialien für Campaign
+Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/campaign-standard-learn.en> migriert.
