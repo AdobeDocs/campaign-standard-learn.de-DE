@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign Standard – Tutorials
 user-guide-description: Videos und Tutorials zu Adobe Campaign Standard.
 breadcrumb-title: Campaign Standard-Tutorials
 auto-video-transcripts: true
-source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 100%
    + [Importieren von Profilen mit einem Workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Verwalten von Services und Abonnements](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Audience Destinations (BETA){#audience-destinations}
-      + [Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Erstellen einer Zielgruppe mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Aktivieren von Adobe Experience Platform-Zielgruppen in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [Ändern der Zielgruppendimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[Übersicht](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+      + {hide-from-toc}[Erstellen einer Zielgruppe mit dem Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + {hide-from-toc}[Aktivieren von Adobe Experience Platform-Zielgruppen in einem Workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[Ändern der Zielgruppendimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Kommunikationskanäle {#communication-channels}
    + E-Mail {#email}
       + [Erstellen einer E-Mail](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Testversand, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[Senden eines Tests, Vorbereiten und Senden einer E-Mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Nachrichtenplanung](/help/communication-channels/email/schedule-messages.md)
       + [Durchführen eines Testversands](/help/communication-channels/email/send-a-proof.md)
       + [A/B-Tests](/help/communication-channels/email/a-b-testing.md)
@@ -99,7 +99,7 @@ ht-degree: 100%
    + Verwenden von Triggern für Transaktionsnachrichten {#triggers}
       + [Übersicht](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Launch für Trigger konfigurieren](/help/integrations/configure-launch-for-triggers.md)
-      + [Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + {hide-from-toc}[Trigger in Experience Cloud erstellen](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Erstellen eines Trigger-Ereignisses in Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Konfigurieren von Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Konfigurieren von Microsoft® Dynamics 365 für die Integration mit Campaign Standard](/help/integrations/configure-dynamics-365.md)

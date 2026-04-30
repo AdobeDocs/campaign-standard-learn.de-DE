@@ -11,8 +11,7 @@ exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 5%
@@ -29,8 +28,8 @@ ht-degree: 5%
 
 In diesem Video wird erläutert, wie Sie die [!UICONTROL Data Services Query Audience] innerhalb eines Workflows mithilfe der Aktivität [!UICONTROL Zielgruppe lesen] aktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/34303?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *Aktivieren einer Adobe Experience Platform-Zielgruppe in einem Workflow (02:37 Min.)*
 
-Informationen zur Aufnahme von Adobe Experience Platform-Zielgruppen in [&#x200B; finden Sie in der Produktdokumentation &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=de)
+Informationen zur Aufnahme von Adobe Experience Platform-Zielgruppen in [ finden Sie in der Produktdokumentation ](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
