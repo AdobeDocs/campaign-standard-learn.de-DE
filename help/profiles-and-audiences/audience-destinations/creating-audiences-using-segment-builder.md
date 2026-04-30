@@ -26,7 +26,7 @@ ht-degree: 8%
 >
 >Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 
-Mit Adobe Campaign Standard können Sie mithilfe von Adobe Experience Platform (Unified Segment Builder) Zielgruppen mithilfe [&#x200B; Daten aus &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) Echtzeit-Kundenprofil [!UICONTROL &#x200B; Adobe Experience Cloud &#x200B;].
+Mit Adobe Campaign Standard können Sie mithilfe von Adobe Experience Platform (Unified Segment Builder) Zielgruppen mithilfe [&#x200B; Daten aus &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=de) Echtzeit-Kundenprofil [!UICONTROL &#x200B; Adobe Experience Cloud &#x200B;].
 
 Sie können auf den [!UICONTROL Unified Segment Builder] direkt in Adobe Campaign Standard über das Modul [!UICONTROL Zielgruppen] zugreifen. Damit können Sie diese Zielgruppen direkt in der Listenansicht [!UICONTROL Zielgruppen] verwalten, in der Sie eine Adobe Experience Platform-Zielgruppe direkt in der Benutzeroberfläche von Adobe Campaign bearbeiten oder erstellen können
 

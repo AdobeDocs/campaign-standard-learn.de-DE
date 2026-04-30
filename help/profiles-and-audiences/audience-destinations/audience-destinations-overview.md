@@ -29,7 +29,7 @@ ht-degree: 5%
 >Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 >
 
-Mit dem Zielgruppen -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus den [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) von Adobe Experience Platform erstellen.
+Mit dem Zielgruppen -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus den [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=de) von Adobe Experience Platform erstellen.
 
 Die folgenden Video-Tutorials führen Sie durch die verschiedenen Schritte:
 
