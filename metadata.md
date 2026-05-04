@@ -5,10 +5,12 @@ solution: Campaign, Campaign Standard
 version: Campaign Standard
 type: Tutorial
 feature-set: Campaign
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-standard-learn.de-DE
+git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 9f652d2b8464bbad6a5308898c75e1d96ed355c5
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 98%
