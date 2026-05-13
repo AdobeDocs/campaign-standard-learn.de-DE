@@ -3,6 +3,9 @@ cloud: Experience Cloud
 product: Adobe Campaign
 solution: Campaign, Campaign Standard
 version: Campaign Standard
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
 type: Tutorial
 feature-set: Campaign
 landing-page-name: campaign
@@ -10,9 +13,9 @@ landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.de-DE
 index: true
-source-git-commit: 9f652d2b8464bbad6a5308898c75e1d96ed355c5
+source-git-commit: 0f352c815baa1045281b26e25a5e58edf29d4dab
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: 149
 ht-degree: 98%
 
 ---
