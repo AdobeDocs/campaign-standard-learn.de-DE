@@ -10,8 +10,10 @@ activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 226
@@ -103,7 +105,7 @@ Jetzt ist ein guter Zeitpunkt, um Ihre App zu testen, bevor Sie fortfahren.
 ### Mobile-App-Abonnenten überprüfen
 
 Melden Sie sich bei Ihrer Adobe Campaign Standard-Instanz an.
-Navigieren Sie **[!UICONTROL Administration->Kanäle->Mobile App (Experience Platform SDK)]**. Öffnen Sie die entsprechende Mobile App. Wechseln Sie zur Registerkarte [!UICONTROL Mobile-App-Abonnenten] . Es sollte ein „Registrierungs[!UICONTROL Token“ ] werden.
+Navigieren Sie **[!UICONTROL Administration->Kanäle->Mobile App (Experience Platform SDK)]**. Öffnen Sie die entsprechende Mobile App. Wechseln Sie zur Registerkarte [!UICONTROL Mobile-App-Abonnenten] . Es sollte ein „Registrierungs[!UICONTROL Token“ &#x200B;] werden.
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 

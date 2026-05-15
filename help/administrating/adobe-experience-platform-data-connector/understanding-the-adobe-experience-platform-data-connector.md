@@ -11,8 +11,10 @@ activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
 TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 294
@@ -42,9 +44,9 @@ Adobe Experience Platform [!UICONTROL Data Connector] ist für Dateningenieure g
 
 >[!NOTE]
 >
->Die standardmäßige Übertragung von (Abonnement[!UICONTROL Ereignissen wird ] unterstützt. Um [!UICONTROL Abonnementereignisse] zu übertragen, können Sie das entsprechende XDM und den entsprechenden Datensatz in Adobe Experience Platform erstellen und dann eine benutzerdefinierte Datenzuordnung für diese Daten konfigurieren.
+>Die standardmäßige Übertragung von (Abonnement[!UICONTROL Ereignissen wird &#x200B;] unterstützt. Um [!UICONTROL Abonnementereignisse] zu übertragen, können Sie das entsprechende XDM und den entsprechenden Datensatz in Adobe Experience Platform erstellen und dann eine benutzerdefinierte Datenzuordnung für diese Daten konfigurieren.
 >
->Vorhandene [!UICONTROL Erlebnisereignisse] können nicht in Adobe Experience Platform aufgenommen werden, aber [!UICONTROL  generierte Erlebnisereignisse ] an Adobe Experience Platform gestreamt.
+>Vorhandene [!UICONTROL Erlebnisereignisse] können nicht in Adobe Experience Platform aufgenommen werden, aber [!UICONTROL &#x200B; generierte Erlebnisereignisse &#x200B;] an Adobe Experience Platform gestreamt.
 
 ## Wichtige Schritte zum Durchführen einer Datenzuordnung
 

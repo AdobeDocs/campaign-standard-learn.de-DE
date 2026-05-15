@@ -10,11 +10,17 @@ team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 TQID: https://experienceleague.adobe.com/e5P--uy0Qe1gz80G9Wq3L-Ino6wsfILUm-TnlEWsxCg
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-feature_v2: id: b12f6872-9271-4369-85e5-86969a0b99a2id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: b12f6872-9271-4369-85e5-86969a0b99a2
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 198
@@ -47,7 +53,7 @@ Um zusätzliche Informationen zu Bestellungen eines Kunden für Marketing- und R
 In diesem Tutorial wird Folgendes erläutert:
 
 Schritt 1: [Erstellen einer benutzerdefinierten Ressource](./creating-a-custom-resource.md)
-Schritt 2: [ einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
+Schritt 2: [&#x200B; einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
 Schritt 3: [Verknüpfen benutzerdefinierter Ressourcen](./linking-custom-resources.md)
 Schritt 4: [Befüllen benutzerdefinierter Ressourcen mit Daten](./populate-custom-resources-with-data.md)
 

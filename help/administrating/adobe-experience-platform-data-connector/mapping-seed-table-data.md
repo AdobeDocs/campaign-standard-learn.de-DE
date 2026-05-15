@@ -11,8 +11,10 @@ level: Experienced
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 TQID: https://experienceleague.adobe.com/nxfR1VE-sFly-9YMJc1HEPAJl5G99Vc229z-i-pogOo
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 120

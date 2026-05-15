@@ -11,9 +11,12 @@ exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
 TQID: https://experienceleague.adobe.com/Htgp9S6cQUt46NQTOJQhzyY2hIOyjR8IOB2Kuu98Zjg
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
 source-wordcount: 130
@@ -35,4 +38,4 @@ Der Kanal ist auf der Startseite und in der Workflow-Ansicht verfügbar, um koh�
 
 ![Workflow-Bild](/help/assets/direct_mail_examplewf.png)
 
-Weitere Informationen (über Briefpost) finden [ in der Produktdokumentation ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Weitere Informationen (über Briefpost) finden [&#x200B; in der Produktdokumentation &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
