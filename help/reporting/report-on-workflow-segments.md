@@ -36,4 +36,4 @@ Erfahren Sie, wie Sie Segmente in Ihrem Workflow definieren und mit dynamischen 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Weitere Informationen finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=de)

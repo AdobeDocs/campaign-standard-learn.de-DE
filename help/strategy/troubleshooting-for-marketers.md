@@ -71,7 +71,7 @@ Siehe den Screenshot für die Aktivität „Abstimmung“, wie unten dargestellt
 
 ![Workflow mit Abstimmdetails](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Weitere Informationen über [Abstimmung](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
+Weitere Informationen über [Abstimmung](https://experienceleague.adobe.com/de/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## Fehler bei gemeinsamem Feld-Datensatz
 

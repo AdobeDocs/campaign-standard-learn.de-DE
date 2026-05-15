@@ -36,5 +36,5 @@ Erfahren Sie, wie Sie den Status überprüfen und die Datenzuordnung ändern.
 
 ## Zusätzliche Ressourcen
 
-* [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+* [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=de)
+* [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=de)

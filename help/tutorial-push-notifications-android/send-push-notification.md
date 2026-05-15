@@ -35,5 +35,5 @@ Wenn alles gut geht, sollten Sie eine Benachrichtigung in Ihrer Android™-App s
 
 ## Zusätzliche Ressourcen
 
-* [Detaillierte Dokumentation zu Push-Benachrichtigungen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [Detaillierte Dokumentation zu Push-Benachrichtigungen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=de)
 * [Push-Benachrichtigung erstellen (Video)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

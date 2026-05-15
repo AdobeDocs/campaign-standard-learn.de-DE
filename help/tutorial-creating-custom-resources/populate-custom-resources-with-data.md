@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie mithilfe eines Workflows benutzerdefinierte Ressourcen mit
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-Weitere Informationen zum Ausfüllen benutzerdefinierter Ressourcen über eine [!DNL API] finden Sie in der Dokumentation [Interagieren mit benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+Weitere Informationen zum Ausfüllen benutzerdefinierter Ressourcen über eine [!DNL API] finden Sie in der Dokumentation [Interagieren mit benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=de).

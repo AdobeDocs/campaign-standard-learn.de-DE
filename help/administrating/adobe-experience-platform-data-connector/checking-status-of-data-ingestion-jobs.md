@@ -39,6 +39,6 @@ Erfahren Sie, wie Sie den Status eines Datenaufnahmevorgangs überprüfen und ob
 
 ## Zusätzliche Ressourcen
 
-* [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [Datenaufnahme über APIs aktivieren](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=de)
+* [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=de)
+* [Datenaufnahme über APIs aktivieren](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html?lang=de)

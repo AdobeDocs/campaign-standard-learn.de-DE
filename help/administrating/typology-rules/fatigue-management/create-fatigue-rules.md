@@ -37,4 +37,4 @@ Um [!UICONTROL Ermüdungsregeln] zu erstellen, müssen Sie eine maximale Anzahl 
 
 ## Zusätzliche Ressourcen
 
-* [Ermüdungsregeln (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [Ermüdungsregeln (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=de)

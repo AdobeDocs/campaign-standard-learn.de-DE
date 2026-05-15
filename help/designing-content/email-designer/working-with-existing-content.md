@@ -39,4 +39,4 @@ E-Mail-Designer erfordert ein spezifisches Tagging, das angewendet werden muss, 
 
 Die ausführliche Dokumentation finden Sie unter folgendem Link:
 
-[Konvertieren von HTML-Inhalten in eine E-Mail-Designer-Vorlage](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Konvertieren von HTML-Inhalten in eine E-Mail-Designer-Vorlage](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=de)
