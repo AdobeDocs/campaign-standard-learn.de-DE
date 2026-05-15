@@ -9,16 +9,18 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: f4712dcf6dec01867414057346f8501c6e1669ec
+TQID: https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 179
+ht-degree: 1%
 
 ---
 
 # Teil 6: Senden [!UICONTROL Push-Benachrichtigung], um Ihre Arbeit zu testen
 
-Jetzt müssen wir eine „Push-Benachrichtigung“ [!UICONTROL &#x200B; Adobe Campaign erstellen &#x200B;] senden. Führen Sie die folgenden Schritte aus, um eine einfache Push-Benachrichtigung zu Testzwecken zu erstellen.
+Jetzt müssen wir eine „Push-Benachrichtigung“ [!UICONTROL  Adobe Campaign erstellen ] senden. Führen Sie die folgenden Schritte aus, um eine einfache Push-Benachrichtigung zu Testzwecken zu erstellen.
 
 * Anmelden bei der Adobe Campaign Standard-Instanz
 * Klicken Sie **[!UICONTROL Marketing-Aktivitäten]->[!UICONTROL Erstellen]->[!UICONTROL Push-Benachrichtigung]**
@@ -32,5 +34,5 @@ Wenn alles gut geht, sollten Sie eine Benachrichtigung in Ihrer Android™-App s
 
 ## Zusätzliche Ressourcen
 
-* [Detaillierte Dokumentation zu Push-Benachrichtigungen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=de)
+* [Detaillierte Dokumentation zu Push-Benachrichtigungen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
 * [Push-Benachrichtigung erstellen (Video)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

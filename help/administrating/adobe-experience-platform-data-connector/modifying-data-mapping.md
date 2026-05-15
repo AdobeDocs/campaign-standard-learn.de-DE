@@ -10,10 +10,13 @@ role: User
 level: Experienced
 team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/3NCZZMpAZW8ZfYR95Lmrmmmk9LZBQb3YtW-UWV004lY
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 99
+ht-degree: 6%
 
 ---
 
@@ -27,9 +30,9 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Status überprüfen und die Datenzuordnung ändern.
 
->[!VIDEO](https://video.tv.adobe.com/v/38492?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
-* [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=de)
-* [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=de)
+* [Mapping-Definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [Mapping-Aktivierung](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

@@ -10,9 +10,13 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '60'
+TQID: https://experienceleague.adobe.com/v8pZ5UvpYyyjlSgCkUHO-Pze1aS7cn1SnIUCXS1LztI
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 60
 ht-degree: 100%
 
 ---
@@ -23,4 +27,4 @@ Um Datenschutzzugriffs- und Löschanfragen gemäß der DSGVO oder des CCPA erste
 
 Erfahren Sie, wie Sie Namespaces für Datenschutzanfragen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/29416?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}

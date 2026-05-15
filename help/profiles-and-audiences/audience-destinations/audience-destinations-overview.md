@@ -11,9 +11,13 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
-source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+TQID: https://experienceleague.adobe.com/sLoK6uZaxUoEW7x4qpYP2xoFcv5AAjUzsWmfTupoOik
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: 138
 ht-degree: 5%
 
 ---
@@ -29,7 +33,7 @@ ht-degree: 5%
 >Wenden Sie sich an den [!UICONTROL Adobe-Support] wenn Sie diese Funktion implementieren möchten.
 >
 
-Mit dem Zielgruppen -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus den [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=de) von Adobe Experience Platform erstellen.
+Mit dem Zielgruppen -Modul in Adobe Campaign Standard können Sie Segmente mithilfe von Daten aus den [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) von Adobe Experience Platform erstellen.
 
 Die folgenden Video-Tutorials führen Sie durch die verschiedenen Schritte:
 

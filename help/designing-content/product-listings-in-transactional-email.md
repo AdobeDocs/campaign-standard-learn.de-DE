@@ -10,10 +10,13 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/mtGhny0ec1-4VqoGHWcZzLkCg1YkrxedrO1QmOLSQDY
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 139
+ht-degree: 4%
 
 ---
 
@@ -29,12 +32,12 @@ In den folgenden Videos werden die Schritte erläutert, die zum Konfigurieren vo
 
 ## Schritt 1: Ereignis erstellen und veröffentlichen
 
->[!VIDEO](https://video.tv.adobe.com/v/34402?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
 
 ## Schritt 2: Hinzufügen einer Produktliste zu einer Transaktionsnachrichtenvorlage
 
->[!VIDEO](https://video.tv.adobe.com/v/34403?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
 
 ## Schritt 3: Testen der Transaktionsnachricht
 
->[!VIDEO](https://video.tv.adobe.com/v/34404?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}

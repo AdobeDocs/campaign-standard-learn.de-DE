@@ -6,9 +6,15 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
-workflow-type: ht
-source-wordcount: '1497'
+TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: addf009e-030a-4310-8534-776a3e62ed48id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: beb7a3c1-66ab-4786-b879-7621375b3c40id: c1579802-ddd4-4214-8a91-97b2066abe11id: d3cdead0-685a-4489-9250-4bb709942f66id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 1497
 ht-degree: 100%
 
 ---
@@ -71,7 +77,7 @@ Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kenn
    * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnentinnen und Abonnenten unvorbereitet sind und sich gleich wieder abmelden bzw. Nachrichten als Spam markieren.
    * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Performance. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Performance oder eine schlechte Datenerfassung ist.
 
-### &#x200B;4. E-Mail-Verwaltung
+### &#x200B;4. E-Mail-Management
 
 * Segmentieren Sie Ihre Abonnentinnen und Abonnenten und überwachen Sie, wo im Lebenszyklus Ihrer Marke sie sich befinden.
 * Nutzen Sie Strategien zur Personalisierung von Inhalten, um die Relevanz Ihrer E-Mails zu erhöhen.

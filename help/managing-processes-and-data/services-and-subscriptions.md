@@ -10,10 +10,14 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/5g1jvdMeAPLduq6ku7s3u-Hp7jj5ryFKvvhIIW2tK1w
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 21%
+source-wordcount: 118
+ht-degree: 20%
 
 ---
 
@@ -31,4 +35,4 @@ Jeder Dienst ist mit folgenden Mechanismen ausgestattet:
 
 In diesem Video erfahren Sie, wie Sie einen Service erstellen und seine Abonnements verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/30225?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}

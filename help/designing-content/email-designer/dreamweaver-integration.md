@@ -10,10 +10,15 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/lS-S5Rn06CBvbcJblZmaFIU-msPBJ2SEeaFlQoUFtq0
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 181
+ht-degree: 63%
 
 ---
 
@@ -31,8 +36,8 @@ Mit der Integration von Adobe Campaign Standard mit Adobe Dreamweaver können Si
 
 In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderlich ist und wie Inhalte für Adobe Campaign Standard mit Dreamweaver erstellt und bearbeitet werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/37503?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
 
-*Verwenden der Dreamweaver-Integration in Adobe Campaign (02:37 min)*
+*Verwendung der Dreamweaver-Integration in Adobe Campaign (02:37 Min.)*
 
-Weitere Informationen finden Sie in der Dokumentation [&#128279;](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html) Dreamweaver Adobe Dreamweaver[&#x200B; unter „Fehlerbehebung bei der Installation von Adobe Campaign Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Weitere Informationen finden Sie in der Dokumentation ](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html) Dreamweaver [Adobe Dreamweaver[ unter „Fehlerbehebung bei der Installation von Adobe Campaign Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
