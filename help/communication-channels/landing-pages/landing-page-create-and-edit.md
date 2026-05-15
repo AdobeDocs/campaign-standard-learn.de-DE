@@ -10,10 +10,17 @@ team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/90M-TdKhUX3FUfJ1y9-IOnogA9XoLqFLuKGPSLq0Dnk
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 85
+ht-degree: 38%
 
 ---
 
@@ -21,7 +28,7 @@ ht-degree: 0%
 
 Mit Adobe Campaign können Sie Landingpages erstellen, bei denen es sich um Online-Formulare handelt, mit denen Informationen über Ihre Zielgruppen erfasst, Abonnements für einen Service angeboten, Daten angezeigt und Ihre Datenbank erweitert werden können. Landingpages können außerdem zur Akquise oder Aktualisierung bestehender Profile verwendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/35471?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35471?captions=ger&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 

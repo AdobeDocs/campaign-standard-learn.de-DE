@@ -1,5 +1,5 @@
 ---
-title: Push-Benachrichtigung erstellen
+title: Erstellen einer Push-Benachrichtigung
 description: Erfahren Sie, wie Sie eine Push-Benachrichtigung erstellen.
 feature: Push
 jira: KT-1401
@@ -10,10 +10,19 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/NfQaXMkZp1ukmwmn54KHwvjW1BaMvlIzIZgSWwVgiV0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 143
+ht-degree: 11%
 
 ---
 
@@ -29,4 +38,4 @@ Mit Adobe Campaign können Sie personalisierte und segmentierte [!UICONTROL Push
 
 In diesem Video wird beschrieben, wie Sie eine [!DNL push notification to app subscribers] senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/35472?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35472?captions=ger&learn=on){transcript=true}

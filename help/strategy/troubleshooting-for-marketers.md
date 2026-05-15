@@ -5,13 +5,26 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-source-git-commit: 83b1b0c98d74d4555269a7d90051146d21824dc0
+TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: 743
 ht-degree: 0%
 
 ---
@@ -20,7 +33,7 @@ ht-degree: 0%
 
 Von: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer
 
-Als Senior Engineer und Kundenexperte für Adobe Experience Cloud-Produkte während der letzten fünf Jahre versetze ich Business-Anwenderinnen und -Anwender bei [Meijer](https://www.meijer.com/){target="_blank"}, einer 1934 gegründeten amerikanischen Supercenter-Kette, in die Lage, komplexe Marketing- und Transaktionskampagnen mit ACS durchzuführen. Zu den Projekten, an denen ich gearbeitet habe, gehören benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die in Adobe Audience Manager integriert sind, und Kundeninformationen für die Segmentaufnahme.
+Als Senior Engineer und Kundenexperte für Adobe Experience Cloud-Produkte während der letzten fünf Jahre versetze ich Business-Anwenderinnen und -Anwender bei [Meijer](https://www.meijer.com/){target="_blank"}, einer 1934 gegründeten amerikanischen Supercenter-Kette, in die Lage, komplexe Marketing- und Transaktionskampagnen mit ACS durchzuführen. Zu den Projekten, an denen ich gearbeitet habe, gehören benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die mit Adobe Audience Manager integriert sind, und Kunden-insight für die Segmentaufnahme.
 
 
 In meiner Zeit bei der Verwendung von ACS sind Fehler aufgetreten, deren Behebung zeitaufwendig und frustrierend sein kann. Das Wissen um die häufigsten Fehler kann Ihnen helfen, Probleme schneller zu lösen und Ihre Produktivität zu steigern. Im Folgenden finden Sie meine Tipps zur Fehlerbehebung, die Ihnen dabei helfen, ähnliche Fehler bei ihrem Auftreten effektiv zu beheben.
