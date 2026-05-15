@@ -32,4 +32,4 @@ ht-degree: 12%
 
 Erfahren Sie, wie Sie mit der In-App-Versandaktivität das Senden einer In-App-Nachricht an eine in einem Workflow berechnete Zielgruppe automatisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38570?captions=ger&learn=on){transcript=true}

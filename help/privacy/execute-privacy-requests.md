@@ -28,4 +28,4 @@ ht-degree: 100%
 
 In Adobe Campaign werden Datenschutzanfragen von Workflows ausgeführt. In diesem Video wird beschrieben, welche Workflows auf Anfragen zugreifen und diese löschen und was während der Ausführung geschieht.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327321?captions=ger&learn=on){transcript=true}

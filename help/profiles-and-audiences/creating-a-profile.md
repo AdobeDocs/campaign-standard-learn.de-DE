@@ -33,4 +33,4 @@ ht-degree: 8%
 
 In diesem Video wird beschrieben, wie Sie ein Profil erstellen und es zu einer Audience hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30087/?captions=ger&learn=on){transcript=true}

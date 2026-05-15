@@ -30,6 +30,6 @@ Mit Adobe Campaign können Sie Anfragen zu personenbezogenen Daten gemäß Daten
 
 Erfahren Sie, wie Sie Datenschutzanfragen manuell erstellen und deren Fortschritt in der Benutzeroberfläche von Adobe Campaign Standard verfolgen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340816?captions=ger&learn=on){transcript=true}
 
 Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Allgemeine Datenschutzrichtlinien für Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=de).

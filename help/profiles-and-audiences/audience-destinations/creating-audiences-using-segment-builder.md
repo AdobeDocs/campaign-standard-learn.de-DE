@@ -41,6 +41,6 @@ Sie können auf den [!UICONTROL Unified Segment Builder] direkt in Adobe Campaig
 
 Im folgenden Video wird erläutert, wie mit dem [!UICONTROL &#x200B; Segment Builder in Adobe Campaign Standard eine neue &#x200B;] erstellt wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38518?captions=ger&learn=on){transcript=true}
 
 *Erstellen einer Zielgruppe in Adobe Campaign Standard mit dem Unified Segment Builder (min 02:47)*

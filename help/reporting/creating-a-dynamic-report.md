@@ -32,7 +32,7 @@ Die [!UICONTROL dynamischen Berichte] von Adobe Campaign sind eine flexible Frei
 
 Erfahren Sie, wie Sie einen Bericht erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30536/?captions=ger&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 

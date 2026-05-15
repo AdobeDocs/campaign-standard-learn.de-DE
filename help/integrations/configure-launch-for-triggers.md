@@ -36,4 +36,4 @@ Erfahren Sie, wie Sie die Adobe Experience Platform-Datenerfassung durchführen 
 >
 > Beachten Sie, dass Launch jetzt die Funktion Tags von Adobe Experience Platform ist. Diese finden Sie unter **Adobe Experience Platform-Datenerfassung**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454025?captions=ger&learn=on){transcript=true}

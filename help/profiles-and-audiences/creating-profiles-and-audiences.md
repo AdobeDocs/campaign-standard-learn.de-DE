@@ -40,4 +40,4 @@ Profile, die nach einem oder mehreren gemeinsamen Kriterien gruppiert sind, werd
 
 In diesem Video wird erläutert, wie Sie zu vorhandenen Profilen navigieren und in Adobe Campaign Standard Profile und Audiences erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38366/?captions=ger&learn=on){transcript=true}

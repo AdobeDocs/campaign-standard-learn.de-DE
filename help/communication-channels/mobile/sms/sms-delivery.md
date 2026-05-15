@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie einen SMS-Versand in Adobe Campaign Standard erstellen. Si
 
 Die SMS-Versandaktivität wird verwendet, um den Versand von SMS zu automatisieren. Die Konfiguration dieser Aktivität entspricht der Konfiguration des im Video beschriebenen einmaligen Versands.
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30537/?captions=ger&learn=on){transcript=true}

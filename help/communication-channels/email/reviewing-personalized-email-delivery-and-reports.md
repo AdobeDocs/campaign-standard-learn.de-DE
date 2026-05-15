@@ -30,4 +30,4 @@ ht-degree: 23%
 
 In diesem Video wird erläutert, wie Sie einen personalisierten E-Mail-Versand überprüfen und verschiedene in Adobe Campaign Standard verfügbare Berichte erkunden.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38358?captions=ger&learn=on){transcript=true}

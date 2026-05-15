@@ -30,4 +30,4 @@ ht-degree: 5%
 
 Erfahren Sie, welche vom Benutzer initiierten Aktionsereignisse eine In-App-Nachricht gesendet haben, und lernen Sie, wie Sie diese Trigger konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40909?captions=ger&learn=on){transcript=true}

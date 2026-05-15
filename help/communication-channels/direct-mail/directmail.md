@@ -30,7 +30,7 @@ Der [!UICONTROL Briefpost]Kanal ermöglicht es, eine segmentierte Liste von Empf
 
 In diesem Video wird erläutert, wie Sie einen [!UICONTROL Briefpost]-Versand konfigurieren und welche Einstellungen erforderlich sind, um ein Profil zu einem [!UICONTROL Briefpost]-Versand hinzufügen zu können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30206?captions=ger&learn=on){transcript=true}
 
 ## Erstellen einer [!UICONTROL Briefpost] innerhalb eines Workflows
 

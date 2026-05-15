@@ -28,7 +28,7 @@ ht-degree: 38%
 
 Mit Adobe Campaign können Sie Landingpages erstellen, bei denen es sich um Online-Formulare handelt, mit denen Informationen über Ihre Zielgruppen erfasst, Abonnements für einen Service angeboten, Daten angezeigt und Ihre Datenbank erweitert werden können. Landingpages können außerdem zur Akquise oder Aktualisierung bestehender Profile verwendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35471?captions=ger&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 

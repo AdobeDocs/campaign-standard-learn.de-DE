@@ -32,4 +32,4 @@ Mit Adobe Campaign können Sie die betrieblichen Abläufe beim Versenden mehrspr
 
 In diesem Video wird anhand einer Vorlage für einen E-Mail-Newsletter erläutert, wie ein mehrsprachiger Versand erstellt wird. Der in den Videos demonstrierte Ansatz gilt sowohl für E-Mail- als auch für SMS-Sendungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37501?captions=ger&learn=on){transcript=true}

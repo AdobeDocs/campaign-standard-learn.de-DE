@@ -32,7 +32,7 @@ Adobe Campaign [!UICONTROL Dynamische Berichte] ist eine flexible Freiformumgebu
 
 In diesem Video wird erläutert, wie Sie einen Bericht basierend auf benutzerdefinierten Profilattributen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33032?captions=ger&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 

@@ -29,4 +29,4 @@ ht-degree: 31%
 
 In diesem Video wird beschrieben, wie Sie eine Test-E-Mail senden und dann einen E-Mail-Versand in Adobe Campaign Standard (ACS) vorbereiten und durchführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30088?captions=ger&learn=on){transcript=true}

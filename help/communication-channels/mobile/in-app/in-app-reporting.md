@@ -32,4 +32,4 @@ ht-degree: 10%
 
 Erfahren Sie, wie Sie Benutzenden kontextuell relevante In-App-Nachrichten als Reaktion auf das Echtzeit-Verhalten eines Kunden in der Mobile App präsentieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34773?captions=ger&learn=on){transcript=true}

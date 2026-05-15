@@ -33,4 +33,4 @@ ht-degree: 100%
 
 In diesem Video werden die potenziellen nächsten Schritte zur echten kanalübergreifenden Orchestrierung erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32957?captions=ger&learn=on){transcript=true}
