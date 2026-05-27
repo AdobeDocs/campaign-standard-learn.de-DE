@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine E-Mail-Nachricht testen können, bevor Sie sie an die endgültigen Empfangenden senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446226/?captions=ger&learn=on){transcript=true}

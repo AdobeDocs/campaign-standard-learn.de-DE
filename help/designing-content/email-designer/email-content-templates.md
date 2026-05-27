@@ -31,4 +31,4 @@ Adobe Campaign Standard bietet 18 vorkonfigurierte E-Mail-Vorlagen, die vollstä
 
 In diesem Video werden die Vorlagen vorgestellt und die Erstellung einer eigenen Vorlage erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/37506?captions=ger&learn=on){transcript=true}

@@ -30,4 +30,4 @@ Sie können einen eigenständigen E-Mail-Versand über eine Kampagne, die Adobe 
 
 Erfahren Sie, wie Sie einen E-Mail-Versand von der Homepage aus erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30221?captions=ger&learn=on){transcript=true}

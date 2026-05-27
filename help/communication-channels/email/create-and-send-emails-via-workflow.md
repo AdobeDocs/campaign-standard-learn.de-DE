@@ -32,4 +32,4 @@ Sie können eine E-Mail aus einer Kampagne, aus der Adobe Campaign-Startseite od
 
 Erfahren Sie, wie Sie E-Mails über einen Workflow erstellen und senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33605?captions=ger&learn=on){transcript=true}

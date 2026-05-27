@@ -29,4 +29,4 @@ ht-degree: 71%
 
 In diesem Video wird die Vorschau Ihrer E-Mail und der Anti-Spam-Analyse erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39665?captions=ger&learn=on){transcript=true}

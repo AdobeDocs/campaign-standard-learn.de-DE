@@ -37,7 +37,7 @@ ht-degree: 100%
 
 In diesem Video erhalten Sie einen Überblick über die Funktionalität und Verwendung von [!UICONTROL E-Mail-Designer ] in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330101?captions=ger&learn=on){transcript=true}
 
 ## Tutorials
 

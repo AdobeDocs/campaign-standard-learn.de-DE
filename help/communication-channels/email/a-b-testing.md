@@ -30,6 +30,6 @@ Mit der Funktion [!UICONTROL A/B]Test) in Adobe Campaign können Sie zwei bis dr
 
 Erfahren Sie, wie Sie einen A/B-Test konfigurieren und senden, um die Betreffzeile einer E-Mail zu testen.
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38300?captions=ger&learn=on){transcript=true}
 
 Weitere Informationen [&#x200B; Testen des Inhalts oder &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=de) Absenders finden Sie in der (Produktdokumentation).

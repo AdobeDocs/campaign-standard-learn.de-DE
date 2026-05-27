@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Adobe Campaign ermöglicht die Konzeption von Marketing-Kampagnen, innerhalb derer Sie verschiedene Aktivitäten wie E-Mails, SMS, [!UICONTROL Push-Benachrichtigungen], Workflows oder Landingpages erstellen und verwalten können. Kampagnen und deren Inhalte können in Programmen zusammengefasst werden. In diesem Video erfahren Sie, wie Sie Kampagnen in Adobe Campaign erstellen und verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328404?captions=ger&learn=on){transcript=true}
