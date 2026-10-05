@@ -47,4 +47,4 @@ Der Kanal ist auf der Startseite und in der Workflow-Ansicht verfügbar, um koh�
 
 ![Workflow-Bild](/help/assets/direct_mail_examplewf.png)
 
-Weitere Informationen (über Briefpost) finden [&#x200B; in der Produktdokumentation &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Weitere Informationen (über Briefpost) finden [&#x200B; in der Produktdokumentation &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=de)
