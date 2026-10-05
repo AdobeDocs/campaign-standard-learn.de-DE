@@ -1,6 +1,6 @@
 ---
 title: 'Schritt 1: Erstellen der Android-App und Konfiguration für die Verwendung von Firebase Cloud Messaging'
-description: In diesem Teil erstellen wir eine  [!DNL Android] -App, um von Adobe Campaign Standard gesendete [!UICONTROL Push]Benachrichtigungen zu erhalten. Um die Push-Benachrichtigungen zu erhalten, muss die App bei Googles  [!DNL Firebase Cloud Service] registriert sein.
+description: In diesem Teil erstellen wir [!DNL Android] App, um von Adobe Campaign Standard gesendete [!UICONTROL Push]Benachrichtigungen zu empfangen. Um die Push-Benachrichtigungen zu erhalten, muss die App bei der [!DNL Firebase Cloud Service] von Google registriert sein.
 feature: Push
 user: Admin
 level: Experienced
@@ -10,18 +10,29 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
+TQID: 'https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Administration
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 374
+source-wordcount: '375'
 ht-degree: 0%
-
 ---
-
 # Schritt 1: Erstellung [!DNL Android] App und Konfiguration der [!DNL Firebase Cloud Messaging]
 
 In diesem Teil erstellen Sie [!DNL Android] App, um von Adobe Campaign Standard gesendete [!UICONTROL Push]Benachrichtigungen zu erhalten. Um die Push-Benachrichtigungen zu erhalten, muss die App bei der [!DNL Firebase Cloud Service] von Google registriert sein.
@@ -56,15 +67,15 @@ In diesem Teil erstellen Sie [!DNL Android] App, um von Adobe Campaign Standard 
 11. Nachdem Ihre App mit Firebase verbunden ist, klicken Sie auf **[!UICONTROL FCM zu Ihrer App hinzufügen].**
 12. Klicken Sie **[!UICONTROL Änderungen akzeptieren].**
 
-   Wenn Sie FCM zu Ihrer App hinzufügen, benötigt der Assistent Ihre Berechtigung, um einige Änderungen an Ihrem Projekt vorzunehmen.
+    Wenn Sie FCM zu Ihrer App hinzufügen, benötigt der Assistent Ihre Berechtigung, um einige Änderungen an Ihrem Projekt vorzunehmen.
 
-   ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
+    ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
 
 Bei erfolgreicher Integration Ihrer App mit Firebase sollten Sie eine Nachricht wie die folgende erhalten:
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Stellen Sie sicher, dass Ihr Projekt in der  [!DNL Firebase &#x200B;] aufgeführt ist.](https://console.firebase.google.com/)
+[Stellen Sie sicher, dass Ihr Projekt in der  [!DNL Firebase ] aufgeführt ist.](https://console.firebase.google.com/)
 
 ## Einstellungen [!UICONTROL Push-Kanal] konfigurieren
 

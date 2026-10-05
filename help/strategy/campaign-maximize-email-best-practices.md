@@ -6,29 +6,41 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+TQID: 'https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 1497
+source-wordcount: '1497'
 ht-degree: 100%
-
 ---
-
 # E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnentinnen und Abonnenten
 
 E-Mail-Marketing ist ein wertvolles Werkzeug für die Entwicklung von Markentreue und Steigerung von Umsätzen. Aufgrund der hohen Zahl von E-Mails, die Menschen täglich erhalten – von anderen digitalen Inhalten, die sie konsumieren, ganz zu schweigen –, ist es jedoch wichtig, dass sich Ihr Content von der Masse abhebt. Außerdem müssen Sie darauf achten, dass der Content den individuellen Bedürfnissen Ihrer Zielgruppe entspricht.
@@ -65,27 +77,27 @@ Im Folgenden lernen Sie vier Schlüsselstrategien zur Maximierung Ihres ROI kenn
 * ISPs verfolgen Ihre durchschnittlichen Versandzahlen von einer IP-Adresse. Verteilen Sie die Menge also so gut wie möglich, um zu verhindern, dass eine Warnung erstellt wird und Ihre Nachrichten im Spam-Ordner landen.
 * Richten Sie Ihren Inhaltskalender im Voraus ein und bereiten Sie Ihre Inhaltsautorinnen und -autoren auf eine Steigerung des Versandvolumens vor.
 * Überlegen Sie, wie Sie Ihre E-Mails zeitlich planen und große Spitzen beim Versandvolumen vermeiden können. Erwägen Sie zum Beispiel folgende Taktiken:
-   * Senden Sie nicht plötzlich ganz viele E-Mails, sondern lieber weniger Nachrichten über mehrere Tage hinweg.
-   * Planen Sie strategisch für Tageszeiten, in denen Personen mit E-Mails bombardiert werden (z. B. zwischen 8 und 10 Uhr morgens).
-   * Wenn Sie den Versand nicht auf mehrere Tage verteilen können, versuchen Sie es mit mehreren Stunden.
+  * Senden Sie nicht plötzlich ganz viele E-Mails, sondern lieber weniger Nachrichten über mehrere Tage hinweg.
+  * Planen Sie strategisch für Tageszeiten, in denen Personen mit E-Mails bombardiert werden (z. B. zwischen 8 und 10 Uhr morgens).
+  * Wenn Sie den Versand nicht auf mehrere Tage verteilen können, versuchen Sie es mit mehreren Stunden.
 
 ### &#x200B;2. Infrastruktur
 
 * Stellen Sie sicher, dass die E-Mail-Authentifizierung richtig eingerichtet ist, indem Sie einen Test mit Ihrer eigenen E-Mail-Adresse durchführen.
 * Machen Sie sich mit der Bounce-Handhabung vertraut und prüfen Sie die Performance Ihrer ISPs.
-   * Gibt es potenzielle Probleme oder Sperrungen bei einem bestimmten ISP?
-   * Seien Sie sich der Herausforderungen bewusst, bevor Sie mit dem Versand großer E-Mail-Mengen beginnen, um unangenehme Überraschungen und ungenügende Kampagnen-Performance zu verhindern.
+  * Gibt es potenzielle Probleme oder Sperrungen bei einem bestimmten ISP?
+  * Seien Sie sich der Herausforderungen bewusst, bevor Sie mit dem Versand großer E-Mail-Mengen beginnen, um unangenehme Überraschungen und ungenügende Kampagnen-Performance zu verhindern.
 
 ### &#x200B;3. Daten
 
 * Identifizieren Sie alle Akquiseverfahren, insbesondere Ihre Anmeldeprozesse und DSGVO-Anforderungen.
 * Seien Sie bei Abonnentinnen und Abonnenten so transparent wie möglich, wenn Sie sie nach ihrer E-Mail-Adresse fragen:
-   * Welche Inhalte werden Sie versenden (Newsletter, Angebote, Veranstaltungen)?
-   * Wie oft werden Sie E-Mails senden (täglich, wöchentlich, monatlich)?
+  * Welche Inhalte werden Sie versenden (Newsletter, Angebote, Veranstaltungen)?
+  * Wie oft werden Sie E-Mails senden (täglich, wöchentlich, monatlich)?
 
 * Schicken Sie eine Begrüßungs-E-Mail an neue Abonnentinnen und Abonnenten:
-   * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnentinnen und Abonnenten unvorbereitet sind und sich gleich wieder abmelden bzw. Nachrichten als Spam markieren.
-   * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Performance. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Performance oder eine schlechte Datenerfassung ist.
+  * Mit Begrüßungs-E-Mails können Sie verhindern, dass Abonnentinnen und Abonnenten unvorbereitet sind und sich gleich wieder abmelden bzw. Nachrichten als Spam markieren.
+  * Außerdem dienen Begrüßungs-E-Mails als guter Indikator für die Performance. Wenn sie nicht erfolgreich zugestellt werden oder kaum Interaktion mit ihnen stattfindet, wissen Sie, dass das ein Zeichen für mangelhafte Performance oder eine schlechte Datenerfassung ist.
 
 ### &#x200B;4. E-Mail-Management
 
@@ -112,9 +124,9 @@ Leider gibt es keine richtige Antwort auf die Frage, wie viele E-Mails pro Woche
 
 * Wo im Kundenlebenszyklus befinden sich Kundinnen und Kunden?
 * Wie stark interagieren sie mit Ihren E-Mails?
-   * E-Mail zu Warenkorbabbruch vs. Newsletter
-   * Reaktivierungs-E-Mail vs. Verkaufsstart
-   * E-Mail zu Warenkorbabbruch vs. Einführung eines neuen Produkts
+  * E-Mail zu Warenkorbabbruch vs. Newsletter
+  * Reaktivierungs-E-Mail vs. Verkaufsstart
+  * E-Mail zu Warenkorbabbruch vs. Einführung eines neuen Produkts
 * Welche Kapazität haben Kundinnen und Kunden hinsichtlich des Erhalts von Inhalten Ihrer Marke?
 * Wie sehen die saisonalen Präferenzen Ihrer Kundinnen und Kunden aus?
 

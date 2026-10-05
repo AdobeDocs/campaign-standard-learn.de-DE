@@ -10,24 +10,33 @@ role: Admin
 level: Beginner
 team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
-TQID: https://experienceleague.adobe.com/v639Mum7hArF-ciJ-sbfRtYBHPHG74DWV-DlmNHeC18
+TQID: 'https://experienceleague.adobe.com/v639Mum7hArF-ciJ-sbfRtYBHPHG74DWV-DlmNHeC18'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+    internal-label: Integrations
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: efa38731-2723-4334-8d8b-a778af834835
+    internal-label: Access management
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Beginner
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 44
+source-wordcount: '44'
 ht-degree: 18%
-
 ---
-
 # Verwalten von Benutzerzugriffsrechten
 
 In diesem Video erfahren Sie, wie Sie die Berechtigungen definieren und verwalten, die den verschiedenen Benutzenden in Adobe Campaign zugewiesen sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/35933?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}
