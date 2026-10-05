@@ -51,4 +51,4 @@ Jeder Dienst ist mit folgenden Mechanismen ausgestattet:
 
 In diesem Video erfahren Sie, wie Sie einen Service erstellen und seine Abonnements verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30225?captions=ger&learn=on){transcript=true}
