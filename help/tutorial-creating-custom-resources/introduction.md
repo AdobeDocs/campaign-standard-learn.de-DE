@@ -64,7 +64,7 @@ Um zusätzliche Informationen zu Bestellungen eines Kunden für Marketing- und R
 In diesem Tutorial wird Folgendes erläutert:
 
 Schritt 1: [Erstellen einer benutzerdefinierten Ressource](./creating-a-custom-resource.md)
-Schritt 2: [ einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
+Schritt 2: [&#x200B; einer Bildschirmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
 Schritt 3: [Verknüpfen benutzerdefinierter Ressourcen](./linking-custom-resources.md)
 Schritt 4: [Befüllen benutzerdefinierter Ressourcen mit Daten](./populate-custom-resources-with-data.md)
 

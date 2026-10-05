@@ -58,4 +58,4 @@ In diesem Video wird erläutert, was für die Dreamweaver-Integration erforderli
 
 *Verwendung der Dreamweaver-Integration in Adobe Campaign (02:37 Min.)*
 
-Weitere Informationen finden Sie in der Dokumentation ](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html) Dreamweaver [Adobe Dreamweaver[ unter „Fehlerbehebung bei der Installation von Adobe Campaign Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Weitere Informationen finden Sie in der Dokumentation [&#128279;](https://helpx.adobe.com/de/dreamweaver/using/working-with-dreamweaver-and-campaign.html) Dreamweaver Adobe Dreamweaver[&#x200B; unter „Fehlerbehebung bei der Installation von Adobe Campaign Dreamweaver](https://helpx.adobe.com/de/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
