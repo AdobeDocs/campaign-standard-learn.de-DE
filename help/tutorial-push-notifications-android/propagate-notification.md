@@ -9,16 +9,26 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-TQID: https://experienceleague.adobe.com/xNsJ0Cj8CUpvHfR66lTnZZEp-shWD0OC14ctHHFu4IY
+TQID: 'https://experienceleague.adobe.com/xNsJ0Cj8CUpvHfR66lTnZZEp-shWD0OC14ctHHFu4IY'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 155
+source-wordcount: '155'
 ht-degree: 2%
-
 ---
-
 # Service hinzufügen, um Benachrichtigung zu senden
 
 In diesem Teil propagieren wir die von Adobe Campaign empfangene Nachricht mithilfe von [!DNL Android Notification Manager]. [!DNL Notification manager] wird verwendet, um Benutzende über eingetretene Ereignisse zu informieren.
