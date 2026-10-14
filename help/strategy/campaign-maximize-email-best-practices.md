@@ -122,7 +122,7 @@ In dem Zusammenhang gibt es einige Best Practices, mit denen Sie Abonnentinnen u
 
 Leider gibt es keine richtige Antwort auf die Frage, wie viele E-Mails pro Woche in Ordnung sind. Berücksichtigen Sie beim Ermitteln der richtigen Häufigkeit folgende Aspekte:
 
-* Wo im Kundenlebenszyklus befinden sich Kundinnen und Kunden?
+* Wo im Kundenzyklus befinden sich Kundinnen und Kunden?
 * Wie stark interagieren sie mit Ihren E-Mails?
   * E-Mail zu Warenkorbabbruch vs. Newsletter
   * Reaktivierungs-E-Mail vs. Verkaufsstart
