@@ -57,7 +57,7 @@ In diesem Artikel verrät Christian seine Best Practices, die Nutzerinnen und Nu
 
 ## &#x200B;1. Einen umfassenden und kohärenten Marketing- und Versandplan erstellen
 
-Der erste Schritt für Ihren nachhaltigen Erfolg mit [!DNL Adobe Campaign] ist ein umfassendes Verständnis Ihrer Tools und Kundenerwartungen. Das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Kundinnen und Kunden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
+Der erste Schritt für Ihren nachhaltigen Erfolg mit [!DNL Adobe Campaign] ist ein umfassendes Verständnis Ihrer Tools und Kundenerwartungen. Das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Verbrauchenden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
 
 Adobe Campaign ist ein flexibles Tool, mit dem Sie Ihre Kommunikationsaktivitäten auf vielfältige Weise ausführen und steuern können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
 
