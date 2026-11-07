@@ -35,7 +35,7 @@ ht-degree: 28%
 
 In diesem Video erstellen wir unsere erste benutzerdefinierte Ressource namens Kunden .
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507580?captions=ger&learn=on){transcript=true}
 
 **Nächster Schritt**
 

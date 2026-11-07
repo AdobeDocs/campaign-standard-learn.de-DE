@@ -35,7 +35,7 @@ ht-degree: 4%
 
 Erfahren Sie, wie Sie eine Bildschirmdefinition für eine benutzerdefinierte Ressource konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507415?captions=ger&learn=on){transcript=true}
 
 **Nächster Schritt**
 

@@ -43,7 +43,7 @@ ht-degree: 9%
 
 Erfahren Sie, wie Sie [!UICONTROL Erlebnisereignisse] in Adobe Experience Platform (AEP) zuordnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507397?captions=ger&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
