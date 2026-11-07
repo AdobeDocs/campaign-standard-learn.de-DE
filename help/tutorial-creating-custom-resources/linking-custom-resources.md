@@ -35,7 +35,7 @@ ht-degree: 7%
 
 Erfahren Sie, wie Sie zwei benutzerdefinierte Ressourcen verknüpfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507587?captions=ger&learn=on){transcript=true}
 
 **Nächster Schritt**
 

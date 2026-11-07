@@ -41,7 +41,7 @@ ht-degree: 11%
 
 Erfahren Sie, wie Sie Ihre kreativen Inhalte von einer Website abrufen und in die E-Mail-Designer laden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507641?captions=ger&learn=on){transcript=true}
 
 ## Kompatibilität vorhandener HTML-Inhalte {#making-existing-html-content-compatible}
 

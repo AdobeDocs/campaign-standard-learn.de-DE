@@ -37,6 +37,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mithilfe eines Workflows benutzerdefinierte Ressourcen mit Daten aus einer [!DNL CSV]-Datei befüllen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507515?captions=ger&learn=on){transcript=true}
 
 Weitere Informationen zum Ausfüllen benutzerdefinierter Ressourcen über eine [!DNL API] finden Sie in der Dokumentation [Interagieren mit benutzerdefinierten Ressourcen](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=de).
